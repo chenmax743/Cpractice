@@ -1,0 +1,14 @@
+D:\程式碼\C#程式碼\Myfirstproject\Myfirstproject\bin\Debug\net8.0\Myfirstproject.exe
+D:\程式碼\C#程式碼\Myfirstproject\Myfirstproject\bin\Debug\net8.0\Myfirstproject.deps.json
+D:\程式碼\C#程式碼\Myfirstproject\Myfirstproject\bin\Debug\net8.0\Myfirstproject.runtimeconfig.json
+D:\程式碼\C#程式碼\Myfirstproject\Myfirstproject\bin\Debug\net8.0\Myfirstproject.dll
+D:\程式碼\C#程式碼\Myfirstproject\Myfirstproject\bin\Debug\net8.0\Myfirstproject.pdb
+D:\程式碼\C#程式碼\Myfirstproject\Myfirstproject\obj\Debug\net8.0\Myfirstproject.GeneratedMSBuildEditorConfig.editorconfig
+D:\程式碼\C#程式碼\Myfirstproject\Myfirstproject\obj\Debug\net8.0\Myfirstproject.AssemblyInfoInputs.cache
+D:\程式碼\C#程式碼\Myfirstproject\Myfirstproject\obj\Debug\net8.0\Myfirstproject.AssemblyInfo.cs
+D:\程式碼\C#程式碼\Myfirstproject\Myfirstproject\obj\Debug\net8.0\Myfirstproject.csproj.CoreCompileInputs.cache
+D:\程式碼\C#程式碼\Myfirstproject\Myfirstproject\obj\Debug\net8.0\Myfirstproject.dll
+D:\程式碼\C#程式碼\Myfirstproject\Myfirstproject\obj\Debug\net8.0\refint\Myfirstproject.dll
+D:\程式碼\C#程式碼\Myfirstproject\Myfirstproject\obj\Debug\net8.0\Myfirstproject.pdb
+D:\程式碼\C#程式碼\Myfirstproject\Myfirstproject\obj\Debug\net8.0\Myfirstproject.genruntimeconfig.cache
+D:\程式碼\C#程式碼\Myfirstproject\Myfirstproject\obj\Debug\net8.0\ref\Myfirstproject.dll
