@@ -1,0 +1,14 @@
+D:\程式碼\C#程式碼\陣列練習\陣列練習\bin\Debug\net8.0\陣列練習.exe
+D:\程式碼\C#程式碼\陣列練習\陣列練習\bin\Debug\net8.0\陣列練習.deps.json
+D:\程式碼\C#程式碼\陣列練習\陣列練習\bin\Debug\net8.0\陣列練習.runtimeconfig.json
+D:\程式碼\C#程式碼\陣列練習\陣列練習\bin\Debug\net8.0\陣列練習.dll
+D:\程式碼\C#程式碼\陣列練習\陣列練習\bin\Debug\net8.0\陣列練習.pdb
+D:\程式碼\C#程式碼\陣列練習\陣列練習\obj\Debug\net8.0\陣列練習.GeneratedMSBuildEditorConfig.editorconfig
+D:\程式碼\C#程式碼\陣列練習\陣列練習\obj\Debug\net8.0\陣列練習.AssemblyInfoInputs.cache
+D:\程式碼\C#程式碼\陣列練習\陣列練習\obj\Debug\net8.0\陣列練習.AssemblyInfo.cs
+D:\程式碼\C#程式碼\陣列練習\陣列練習\obj\Debug\net8.0\陣列練習.csproj.CoreCompileInputs.cache
+D:\程式碼\C#程式碼\陣列練習\陣列練習\obj\Debug\net8.0\陣列練習.dll
+D:\程式碼\C#程式碼\陣列練習\陣列練習\obj\Debug\net8.0\refint\陣列練習.dll
+D:\程式碼\C#程式碼\陣列練習\陣列練習\obj\Debug\net8.0\陣列練習.pdb
+D:\程式碼\C#程式碼\陣列練習\陣列練習\obj\Debug\net8.0\陣列練習.genruntimeconfig.cache
+D:\程式碼\C#程式碼\陣列練習\陣列練習\obj\Debug\net8.0\ref\陣列練習.dll

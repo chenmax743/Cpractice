@@ -1,0 +1,14 @@
+D:\程式碼\C#程式碼\If else practice\If else practice\bin\Debug\net8.0\If else practice.exe
+D:\程式碼\C#程式碼\If else practice\If else practice\bin\Debug\net8.0\If else practice.deps.json
+D:\程式碼\C#程式碼\If else practice\If else practice\bin\Debug\net8.0\If else practice.runtimeconfig.json
+D:\程式碼\C#程式碼\If else practice\If else practice\bin\Debug\net8.0\If else practice.dll
+D:\程式碼\C#程式碼\If else practice\If else practice\bin\Debug\net8.0\If else practice.pdb
+D:\程式碼\C#程式碼\If else practice\If else practice\obj\Debug\net8.0\If else practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\程式碼\C#程式碼\If else practice\If else practice\obj\Debug\net8.0\If else practice.AssemblyInfoInputs.cache
+D:\程式碼\C#程式碼\If else practice\If else practice\obj\Debug\net8.0\If else practice.AssemblyInfo.cs
+D:\程式碼\C#程式碼\If else practice\If else practice\obj\Debug\net8.0\If else practice.csproj.CoreCompileInputs.cache
+D:\程式碼\C#程式碼\If else practice\If else practice\obj\Debug\net8.0\If else practice.dll
+D:\程式碼\C#程式碼\If else practice\If else practice\obj\Debug\net8.0\refint\If else practice.dll
+D:\程式碼\C#程式碼\If else practice\If else practice\obj\Debug\net8.0\If else practice.pdb
+D:\程式碼\C#程式碼\If else practice\If else practice\obj\Debug\net8.0\If else practice.genruntimeconfig.cache
+D:\程式碼\C#程式碼\If else practice\If else practice\obj\Debug\net8.0\ref\If else practice.dll

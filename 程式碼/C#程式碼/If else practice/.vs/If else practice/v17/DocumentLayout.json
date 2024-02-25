@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\If else practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F495C75-3418-4728-860C-730590632568}|If else practice\\If else practice.csproj|d:\\\u7A0B\u5F0F\u78BC\\c#\u7A0B\u5F0F\u78BC\\if else practice\\if else practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F495C75-3418-4728-860C-730590632568}|If else practice\\If else practice.csproj|solutionrelative:if else practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\If else practice\\If else practice\\Program.cs",
+              "RelativeDocumentMoniker": "If else practice\\Program.cs",
+              "ToolTip": "D:\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\If else practice\\If else practice\\Program.cs",
+              "RelativeToolTip": "If else practice\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAG0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T11:22:27.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

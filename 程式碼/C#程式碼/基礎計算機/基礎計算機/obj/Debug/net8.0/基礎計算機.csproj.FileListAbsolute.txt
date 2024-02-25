@@ -1,0 +1,14 @@
+D:\程式碼\C#程式碼\基礎計算機\基礎計算機\bin\Debug\net8.0\基礎計算機.exe
+D:\程式碼\C#程式碼\基礎計算機\基礎計算機\bin\Debug\net8.0\基礎計算機.deps.json
+D:\程式碼\C#程式碼\基礎計算機\基礎計算機\bin\Debug\net8.0\基礎計算機.runtimeconfig.json
+D:\程式碼\C#程式碼\基礎計算機\基礎計算機\bin\Debug\net8.0\基礎計算機.dll
+D:\程式碼\C#程式碼\基礎計算機\基礎計算機\bin\Debug\net8.0\基礎計算機.pdb
+D:\程式碼\C#程式碼\基礎計算機\基礎計算機\obj\Debug\net8.0\基礎計算機.GeneratedMSBuildEditorConfig.editorconfig
+D:\程式碼\C#程式碼\基礎計算機\基礎計算機\obj\Debug\net8.0\基礎計算機.AssemblyInfoInputs.cache
+D:\程式碼\C#程式碼\基礎計算機\基礎計算機\obj\Debug\net8.0\基礎計算機.AssemblyInfo.cs
+D:\程式碼\C#程式碼\基礎計算機\基礎計算機\obj\Debug\net8.0\基礎計算機.csproj.CoreCompileInputs.cache
+D:\程式碼\C#程式碼\基礎計算機\基礎計算機\obj\Debug\net8.0\基礎計算機.dll
+D:\程式碼\C#程式碼\基礎計算機\基礎計算機\obj\Debug\net8.0\refint\基礎計算機.dll
+D:\程式碼\C#程式碼\基礎計算機\基礎計算機\obj\Debug\net8.0\基礎計算機.pdb
+D:\程式碼\C#程式碼\基礎計算機\基礎計算機\obj\Debug\net8.0\基礎計算機.genruntimeconfig.cache
+D:\程式碼\C#程式碼\基礎計算機\基礎計算機\obj\Debug\net8.0\ref\基礎計算機.dll
