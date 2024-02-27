@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\進階計算機\進階計算機\obj\Debug\net8.0\進階計算機.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\進階計算機\進階計算機\obj\Debug\net8.0\進階計算機.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\進階計算機\進階計算機\obj\Debug\net8.0\進階計算機.AssemblyInfo.cs
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\進階計算機\進階計算機\obj\Debug\net8.0\進階計算機.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\進階計算機\進階計算機\obj\Debug\net8.0\進階計算機.sourcelink.json
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\進階計算機\進階計算機\bin\Debug\net8.0\進階計算機.exe
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\進階計算機\進階計算機\bin\Debug\net8.0\進階計算機.deps.json
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\進階計算機\進階計算機\bin\Debug\net8.0\進階計算機.runtimeconfig.json
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\進階計算機\進階計算機\bin\Debug\net8.0\進階計算機.dll
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\進階計算機\進階計算機\bin\Debug\net8.0\進階計算機.pdb
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\進階計算機\進階計算機\obj\Debug\net8.0\進階計算機.dll
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\進階計算機\進階計算機\obj\Debug\net8.0\refint\進階計算機.dll
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\進階計算機\進階計算機\obj\Debug\net8.0\進階計算機.pdb
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\進階計算機\進階計算機\obj\Debug\net8.0\進階計算機.genruntimeconfig.cache
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\進階計算機\進階計算機\obj\Debug\net8.0\ref\進階計算機.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\while \u8FF4\u5708\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0917392-0D4E-423C-9B72-7D9536293638}|while \u8FF4\u5708\\while \u8FF4\u5708.csproj|c:\\users\\user\\documents\\cpractice\\\u7A0B\u5F0F\u78BC\\c#\u7A0B\u5F0F\u78BC\\while \u8FF4\u5708\\while \u8FF4\u5708\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0917392-0D4E-423C-9B72-7D9536293638}|while \u8FF4\u5708\\while \u8FF4\u5708.csproj|solutionrelative:while \u8FF4\u5708\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\while \u8FF4\u5708\\while \u8FF4\u5708\\Program.cs",
+              "RelativeDocumentMoniker": "while \u8FF4\u5708\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\while \u8FF4\u5708\\while \u8FF4\u5708\\Program.cs",
+              "RelativeToolTip": "while \u8FF4\u5708\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T01:34:47.451Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
