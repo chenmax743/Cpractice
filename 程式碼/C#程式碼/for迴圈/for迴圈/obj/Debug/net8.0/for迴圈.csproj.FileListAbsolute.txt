@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\for迴圈\for迴圈\obj\Debug\net8.0\for迴圈.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\for迴圈\for迴圈\obj\Debug\net8.0\for迴圈.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\for迴圈\for迴圈\obj\Debug\net8.0\for迴圈.AssemblyInfo.cs
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\for迴圈\for迴圈\obj\Debug\net8.0\for迴圈.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\for迴圈\for迴圈\obj\Debug\net8.0\for迴圈.sourcelink.json
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\for迴圈\for迴圈\bin\Debug\net8.0\for迴圈.exe
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\for迴圈\for迴圈\bin\Debug\net8.0\for迴圈.deps.json
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\for迴圈\for迴圈\bin\Debug\net8.0\for迴圈.runtimeconfig.json
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\for迴圈\for迴圈\bin\Debug\net8.0\for迴圈.dll
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\for迴圈\for迴圈\bin\Debug\net8.0\for迴圈.pdb
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\for迴圈\for迴圈\obj\Debug\net8.0\for迴圈.dll
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\for迴圈\for迴圈\obj\Debug\net8.0\refint\for迴圈.dll
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\for迴圈\for迴圈\obj\Debug\net8.0\for迴圈.pdb
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\for迴圈\for迴圈\obj\Debug\net8.0\for迴圈.genruntimeconfig.cache
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\for迴圈\for迴圈\obj\Debug\net8.0\ref\for迴圈.dll
