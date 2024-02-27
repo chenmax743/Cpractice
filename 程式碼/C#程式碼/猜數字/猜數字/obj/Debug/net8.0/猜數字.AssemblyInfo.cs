@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("猜數字")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85373e46ea4088da781a21a7e6e908aaf2feb757")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+905d8dd872a1055e534d7dff939966d7ecbe2094")]
 [assembly: System.Reflection.AssemblyProductAttribute("猜數字")]
 [assembly: System.Reflection.AssemblyTitleAttribute("猜數字")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
