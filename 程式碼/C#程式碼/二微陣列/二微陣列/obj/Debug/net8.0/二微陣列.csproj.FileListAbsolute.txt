@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\二微陣列\二微陣列\bin\Debug\net8.0\二微陣列.exe
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\二微陣列\二微陣列\bin\Debug\net8.0\二微陣列.deps.json
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\二微陣列\二微陣列\bin\Debug\net8.0\二微陣列.runtimeconfig.json
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\二微陣列\二微陣列\bin\Debug\net8.0\二微陣列.dll
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\二微陣列\二微陣列\bin\Debug\net8.0\二微陣列.pdb
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\二微陣列\二微陣列\obj\Debug\net8.0\二微陣列.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\二微陣列\二微陣列\obj\Debug\net8.0\二微陣列.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\二微陣列\二微陣列\obj\Debug\net8.0\二微陣列.AssemblyInfo.cs
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\二微陣列\二微陣列\obj\Debug\net8.0\二微陣列.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\二微陣列\二微陣列\obj\Debug\net8.0\二微陣列.sourcelink.json
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\二微陣列\二微陣列\obj\Debug\net8.0\二微陣列.dll
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\二微陣列\二微陣列\obj\Debug\net8.0\refint\二微陣列.dll
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\二微陣列\二微陣列\obj\Debug\net8.0\二微陣列.pdb
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\二微陣列\二微陣列\obj\Debug\net8.0\二微陣列.genruntimeconfig.cache
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\二微陣列\二微陣列\obj\Debug\net8.0\ref\二微陣列.dll

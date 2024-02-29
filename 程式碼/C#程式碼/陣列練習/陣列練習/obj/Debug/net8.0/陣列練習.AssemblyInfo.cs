@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("陣列練習")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d34d3b2fdd93c402c3bb609f6edf314c352bc2b")]
 [assembly: System.Reflection.AssemblyProductAttribute("陣列練習")]
 [assembly: System.Reflection.AssemblyTitleAttribute("陣列練習")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

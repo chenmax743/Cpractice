@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\程式碼\\C#程式碼\\基礎計算機\\基礎計算機\\基礎計算機.csproj": {}
+    "C:\\Users\\User\\Documents\\Cpractice\\程式碼\\C#程式碼\\基礎計算機\\基礎計算機\\基礎計算機.csproj": {}
   },
   "projects": {
-    "D:\\程式碼\\C#程式碼\\基礎計算機\\基礎計算機\\基礎計算機.csproj": {
+    "C:\\Users\\User\\Documents\\Cpractice\\程式碼\\C#程式碼\\基礎計算機\\基礎計算機\\基礎計算機.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\程式碼\\C#程式碼\\基礎計算機\\基礎計算機\\基礎計算機.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\Cpractice\\程式碼\\C#程式碼\\基礎計算機\\基礎計算機\\基礎計算機.csproj",
         "projectName": "基礎計算機",
-        "projectPath": "D:\\程式碼\\C#程式碼\\基礎計算機\\基礎計算機\\基礎計算機.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\Cpractice\\程式碼\\C#程式碼\\基礎計算機\\基礎計算機\\基礎計算機.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\程式碼\\C#程式碼\\基礎計算機\\基礎計算機\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\Cpractice\\程式碼\\C#程式碼\\基礎計算機\\基礎計算機\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

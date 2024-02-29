@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\程式碼\\C#程式碼\\陣列練習\\陣列練習\\陣列練習.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\Cpractice\\程式碼\\C#程式碼\\陣列練習\\陣列練習\\陣列練習.csproj",
       "projectName": "陣列練習",
-      "projectPath": "D:\\程式碼\\C#程式碼\\陣列練習\\陣列練習\\陣列練習.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\Cpractice\\程式碼\\C#程式碼\\陣列練習\\陣列練習\\陣列練習.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\程式碼\\C#程式碼\\陣列練習\\陣列練習\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\Cpractice\\程式碼\\C#程式碼\\陣列練習\\陣列練習\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
