@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\class , object 類別 物件\class , object 類別 物件\bin\Debug\net8.0\class , object 類別 物件.exe
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\class , object 類別 物件\class , object 類別 物件\bin\Debug\net8.0\class , object 類別 物件.deps.json
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\class , object 類別 物件\class , object 類別 物件\bin\Debug\net8.0\class , object 類別 物件.runtimeconfig.json
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\class , object 類別 物件\class , object 類別 物件\bin\Debug\net8.0\class , object 類別 物件.dll
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\class , object 類別 物件\class , object 類別 物件\bin\Debug\net8.0\class , object 類別 物件.pdb
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\class , object 類別 物件\class , object 類別 物件\obj\Debug\net8.0\class , object 類別 物件.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\class , object 類別 物件\class , object 類別 物件\obj\Debug\net8.0\class , object 類別 物件.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\class , object 類別 物件\class , object 類別 物件\obj\Debug\net8.0\class , object 類別 物件.AssemblyInfo.cs
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\class , object 類別 物件\class , object 類別 物件\obj\Debug\net8.0\class , object 類別 物件.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\class , object 類別 物件\class , object 類別 物件\obj\Debug\net8.0\class , object 類別 物件.sourcelink.json
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\class , object 類別 物件\class , object 類別 物件\obj\Debug\net8.0\class , object 類別 物件.dll
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\class , object 類別 物件\class , object 類別 物件\obj\Debug\net8.0\refint\class , object 類別 物件.dll
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\class , object 類別 物件\class , object 類別 物件\obj\Debug\net8.0\class , object 類別 物件.pdb
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\class , object 類別 物件\class , object 類別 物件\obj\Debug\net8.0\class , object 類別 物件.genruntimeconfig.cache
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\class , object 類別 物件\class , object 類別 物件\obj\Debug\net8.0\ref\class , object 類別 物件.dll

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\class , object \u985E\u5225 \u7269\u4EF6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FF64665-E0A7-46B0-AC33-1A9DBA679804}|class , object \u985E\u5225 \u7269\u4EF6\\class , object \u985E\u5225 \u7269\u4EF6.csproj|c:\\users\\user\\documents\\cpractice\\\u7A0B\u5F0F\u78BC\\c#\u7A0B\u5F0F\u78BC\\class , object \u985E\u5225 \u7269\u4EF6\\class , object \u985E\u5225 \u7269\u4EF6\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FF64665-E0A7-46B0-AC33-1A9DBA679804}|class , object \u985E\u5225 \u7269\u4EF6\\class , object \u985E\u5225 \u7269\u4EF6.csproj|solutionrelative:class , object \u985E\u5225 \u7269\u4EF6\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7FF64665-E0A7-46B0-AC33-1A9DBA679804}|class , object \u985E\u5225 \u7269\u4EF6\\class , object \u985E\u5225 \u7269\u4EF6.csproj|c:\\users\\user\\documents\\cpractice\\\u7A0B\u5F0F\u78BC\\c#\u7A0B\u5F0F\u78BC\\class , object \u985E\u5225 \u7269\u4EF6\\class , object \u985E\u5225 \u7269\u4EF6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FF64665-E0A7-46B0-AC33-1A9DBA679804}|class , object \u985E\u5225 \u7269\u4EF6\\class , object \u985E\u5225 \u7269\u4EF6.csproj|solutionrelative:class , object \u985E\u5225 \u7269\u4EF6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF64665-E0A7-46B0-AC33-1A9DBA679804}|class , object \u985E\u5225 \u7269\u4EF6\\class , object \u985E\u5225 \u7269\u4EF6.csproj|c:\\users\\user\\documents\\cpractice\\\u7A0B\u5F0F\u78BC\\c#\u7A0B\u5F0F\u78BC\\class , object \u985E\u5225 \u7269\u4EF6\\class , object \u985E\u5225 \u7269\u4EF6\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF64665-E0A7-46B0-AC33-1A9DBA679804}|class , object \u985E\u5225 \u7269\u4EF6\\class , object \u985E\u5225 \u7269\u4EF6.csproj|solutionrelative:class , object \u985E\u5225 \u7269\u4EF6\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\class , object \u985E\u5225 \u7269\u4EF6\\class , object \u985E\u5225 \u7269\u4EF6\\Person.cs",
               "RelativeDocumentMoniker": "class , object \u985E\u5225 \u7269\u4EF6\\Person.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\class , object \u985E\u5225 \u7269\u4EF6\\class , object \u985E\u5225 \u7269\u4EF6\\Person.cs",
               "RelativeToolTip": "class , object \u985E\u5225 \u7269\u4EF6\\Person.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-29T08:09:26.061Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\class , object \u985E\u5225 \u7269\u4EF6\\class , object \u985E\u5225 \u7269\u4EF6\\Program.cs",
               "RelativeDocumentMoniker": "class , object \u985E\u5225 \u7269\u4EF6\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\class , object \u985E\u5225 \u7269\u4EF6\\class , object \u985E\u5225 \u7269\u4EF6\\Program.cs",
               "RelativeToolTip": "class , object \u985E\u5225 \u7269\u4EF6\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-29T08:07:36.559Z",
               "EditorCaption": ""

@@ -1,12 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace class___object_類別_物件
+﻿namespace Animal
 {
-    internal class Person
+    namespace QQ
     {
+        class Person
+        {
+            public double height;
+            public int age;
+            public string name;
+
+        }
+
     }
+    
+
 }
+
+
+
+
+
