@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("class , object 類別 物件")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb5b2b28421cbb954b57e91fb5b2a9d107e366fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bdb913bd63b99ee4bb586d279f68c7636a2b2ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("class , object 類別 物件")]
 [assembly: System.Reflection.AssemblyTitleAttribute("class , object 類別 物件")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
