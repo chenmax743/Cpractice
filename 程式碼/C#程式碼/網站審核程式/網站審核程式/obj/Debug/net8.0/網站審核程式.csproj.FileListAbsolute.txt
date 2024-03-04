@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\網站審核程式\網站審核程式\obj\Debug\net8.0\網站審核程式.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\網站審核程式\網站審核程式\obj\Debug\net8.0\網站審核程式.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\網站審核程式\網站審核程式\obj\Debug\net8.0\網站審核程式.AssemblyInfo.cs
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\網站審核程式\網站審核程式\obj\Debug\net8.0\網站審核程式.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\網站審核程式\網站審核程式\obj\Debug\net8.0\網站審核程式.sourcelink.json
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\網站審核程式\網站審核程式\bin\Debug\net8.0\網站審核程式.exe
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\網站審核程式\網站審核程式\bin\Debug\net8.0\網站審核程式.deps.json
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\網站審核程式\網站審核程式\bin\Debug\net8.0\網站審核程式.runtimeconfig.json
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\網站審核程式\網站審核程式\bin\Debug\net8.0\網站審核程式.dll
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\網站審核程式\網站審核程式\bin\Debug\net8.0\網站審核程式.pdb
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\網站審核程式\網站審核程式\obj\Debug\net8.0\網站審核程式.dll
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\網站審核程式\網站審核程式\obj\Debug\net8.0\refint\網站審核程式.dll
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\網站審核程式\網站審核程式\obj\Debug\net8.0\網站審核程式.pdb
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\網站審核程式\網站審核程式\obj\Debug\net8.0\網站審核程式.genruntimeconfig.cache
+C:\Users\User\Documents\Cpractice\程式碼\C#程式碼\網站審核程式\網站審核程式\obj\Debug\net8.0\ref\網站審核程式.dll
