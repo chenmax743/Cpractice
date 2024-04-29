@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Cpractice\程式碼\My Program\bin\Debug\net8.0\My Program.exe
+C:\Users\User\Documents\Cpractice\程式碼\My Program\bin\Debug\net8.0\My Program.deps.json
+C:\Users\User\Documents\Cpractice\程式碼\My Program\bin\Debug\net8.0\My Program.runtimeconfig.json
+C:\Users\User\Documents\Cpractice\程式碼\My Program\bin\Debug\net8.0\My Program.dll
+C:\Users\User\Documents\Cpractice\程式碼\My Program\bin\Debug\net8.0\My Program.pdb
+C:\Users\User\Documents\Cpractice\程式碼\My Program\obj\Debug\net8.0\My Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Cpractice\程式碼\My Program\obj\Debug\net8.0\My Program.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Cpractice\程式碼\My Program\obj\Debug\net8.0\My Program.AssemblyInfo.cs
+C:\Users\User\Documents\Cpractice\程式碼\My Program\obj\Debug\net8.0\My Program.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Cpractice\程式碼\My Program\obj\Debug\net8.0\My Program.sourcelink.json
+C:\Users\User\Documents\Cpractice\程式碼\My Program\obj\Debug\net8.0\My Program.dll
+C:\Users\User\Documents\Cpractice\程式碼\My Program\obj\Debug\net8.0\refint\My Program.dll
+C:\Users\User\Documents\Cpractice\程式碼\My Program\obj\Debug\net8.0\My Program.pdb
+C:\Users\User\Documents\Cpractice\程式碼\My Program\obj\Debug\net8.0\My Program.genruntimeconfig.cache
+C:\Users\User\Documents\Cpractice\程式碼\My Program\obj\Debug\net8.0\ref\My Program.dll
