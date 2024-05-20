@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cpractice\\程式碼\\C#程式碼\\Simple dice Game\\Simple dice Game\\Simple dice Game.csproj": {}
+    "D:\\Cpractice\\Cpractice\\程式碼\\C#程式碼\\Simple dice Game\\Simple dice Game\\Simple dice Game.csproj": {}
   },
   "projects": {
-    "D:\\Cpractice\\程式碼\\C#程式碼\\Simple dice Game\\Simple dice Game\\Simple dice Game.csproj": {
+    "D:\\Cpractice\\Cpractice\\程式碼\\C#程式碼\\Simple dice Game\\Simple dice Game\\Simple dice Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cpractice\\程式碼\\C#程式碼\\Simple dice Game\\Simple dice Game\\Simple dice Game.csproj",
+        "projectUniqueName": "D:\\Cpractice\\Cpractice\\程式碼\\C#程式碼\\Simple dice Game\\Simple dice Game\\Simple dice Game.csproj",
         "projectName": "Simple dice Game",
-        "projectPath": "D:\\Cpractice\\程式碼\\C#程式碼\\Simple dice Game\\Simple dice Game\\Simple dice Game.csproj",
+        "projectPath": "D:\\Cpractice\\Cpractice\\程式碼\\C#程式碼\\Simple dice Game\\Simple dice Game\\Simple dice Game.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Cpractice\\程式碼\\C#程式碼\\Simple dice Game\\Simple dice Game\\obj\\",
+        "outputPath": "D:\\Cpractice\\Cpractice\\程式碼\\C#程式碼\\Simple dice Game\\Simple dice Game\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cpractice\\程式碼\\C#程式碼\\CsharpPractice1\\CsharpPractice1\\CsharpPractice1.csproj",
+      "projectUniqueName": "D:\\Cpractice\\Cpractice\\程式碼\\C#程式碼\\CsharpPractice1\\CsharpPractice1\\CsharpPractice1.csproj",
       "projectName": "CsharpPractice1",
-      "projectPath": "D:\\Cpractice\\程式碼\\C#程式碼\\CsharpPractice1\\CsharpPractice1\\CsharpPractice1.csproj",
+      "projectPath": "D:\\Cpractice\\Cpractice\\程式碼\\C#程式碼\\CsharpPractice1\\CsharpPractice1\\CsharpPractice1.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Cpractice\\程式碼\\C#程式碼\\CsharpPractice1\\CsharpPractice1\\obj\\",
+      "outputPath": "D:\\Cpractice\\Cpractice\\程式碼\\C#程式碼\\CsharpPractice1\\CsharpPractice1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

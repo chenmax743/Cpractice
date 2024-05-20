@@ -1,0 +1,15 @@
+D:\Cpractice\Cpractice\程式碼\C#程式碼\Simple dice Game\Simple dice Game\bin\Debug\net8.0\Simple dice Game.exe
+D:\Cpractice\Cpractice\程式碼\C#程式碼\Simple dice Game\Simple dice Game\bin\Debug\net8.0\Simple dice Game.deps.json
+D:\Cpractice\Cpractice\程式碼\C#程式碼\Simple dice Game\Simple dice Game\bin\Debug\net8.0\Simple dice Game.runtimeconfig.json
+D:\Cpractice\Cpractice\程式碼\C#程式碼\Simple dice Game\Simple dice Game\bin\Debug\net8.0\Simple dice Game.dll
+D:\Cpractice\Cpractice\程式碼\C#程式碼\Simple dice Game\Simple dice Game\bin\Debug\net8.0\Simple dice Game.pdb
+D:\Cpractice\Cpractice\程式碼\C#程式碼\Simple dice Game\Simple dice Game\obj\Debug\net8.0\Simple dice Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cpractice\Cpractice\程式碼\C#程式碼\Simple dice Game\Simple dice Game\obj\Debug\net8.0\Simple dice Game.AssemblyInfoInputs.cache
+D:\Cpractice\Cpractice\程式碼\C#程式碼\Simple dice Game\Simple dice Game\obj\Debug\net8.0\Simple dice Game.AssemblyInfo.cs
+D:\Cpractice\Cpractice\程式碼\C#程式碼\Simple dice Game\Simple dice Game\obj\Debug\net8.0\Simple dice Game.csproj.CoreCompileInputs.cache
+D:\Cpractice\Cpractice\程式碼\C#程式碼\Simple dice Game\Simple dice Game\obj\Debug\net8.0\Simple dice Game.sourcelink.json
+D:\Cpractice\Cpractice\程式碼\C#程式碼\Simple dice Game\Simple dice Game\obj\Debug\net8.0\Simple dice Game.dll
+D:\Cpractice\Cpractice\程式碼\C#程式碼\Simple dice Game\Simple dice Game\obj\Debug\net8.0\refint\Simple dice Game.dll
+D:\Cpractice\Cpractice\程式碼\C#程式碼\Simple dice Game\Simple dice Game\obj\Debug\net8.0\Simple dice Game.pdb
+D:\Cpractice\Cpractice\程式碼\C#程式碼\Simple dice Game\Simple dice Game\obj\Debug\net8.0\Simple dice Game.genruntimeconfig.cache
+D:\Cpractice\Cpractice\程式碼\C#程式碼\Simple dice Game\Simple dice Game\obj\Debug\net8.0\ref\Simple dice Game.dll
