@@ -1,0 +1,15 @@
+D:\Cpractice\程式碼\C#程式碼\CsharpPractice1\CsharpPractice1\bin\Debug\net8.0\CsharpPractice1.exe
+D:\Cpractice\程式碼\C#程式碼\CsharpPractice1\CsharpPractice1\bin\Debug\net8.0\CsharpPractice1.deps.json
+D:\Cpractice\程式碼\C#程式碼\CsharpPractice1\CsharpPractice1\bin\Debug\net8.0\CsharpPractice1.runtimeconfig.json
+D:\Cpractice\程式碼\C#程式碼\CsharpPractice1\CsharpPractice1\bin\Debug\net8.0\CsharpPractice1.dll
+D:\Cpractice\程式碼\C#程式碼\CsharpPractice1\CsharpPractice1\bin\Debug\net8.0\CsharpPractice1.pdb
+D:\Cpractice\程式碼\C#程式碼\CsharpPractice1\CsharpPractice1\obj\Debug\net8.0\CsharpPractice1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cpractice\程式碼\C#程式碼\CsharpPractice1\CsharpPractice1\obj\Debug\net8.0\CsharpPractice1.AssemblyInfoInputs.cache
+D:\Cpractice\程式碼\C#程式碼\CsharpPractice1\CsharpPractice1\obj\Debug\net8.0\CsharpPractice1.AssemblyInfo.cs
+D:\Cpractice\程式碼\C#程式碼\CsharpPractice1\CsharpPractice1\obj\Debug\net8.0\CsharpPractice1.csproj.CoreCompileInputs.cache
+D:\Cpractice\程式碼\C#程式碼\CsharpPractice1\CsharpPractice1\obj\Debug\net8.0\CsharpPractice1.sourcelink.json
+D:\Cpractice\程式碼\C#程式碼\CsharpPractice1\CsharpPractice1\obj\Debug\net8.0\CsharpPractice1.dll
+D:\Cpractice\程式碼\C#程式碼\CsharpPractice1\CsharpPractice1\obj\Debug\net8.0\refint\CsharpPractice1.dll
+D:\Cpractice\程式碼\C#程式碼\CsharpPractice1\CsharpPractice1\obj\Debug\net8.0\CsharpPractice1.pdb
+D:\Cpractice\程式碼\C#程式碼\CsharpPractice1\CsharpPractice1\obj\Debug\net8.0\CsharpPractice1.genruntimeconfig.cache
+D:\Cpractice\程式碼\C#程式碼\CsharpPractice1\CsharpPractice1\obj\Debug\net8.0\ref\CsharpPractice1.dll

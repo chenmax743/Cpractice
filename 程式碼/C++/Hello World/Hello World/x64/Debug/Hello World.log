@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Cpractice\程式碼\C++\Hello World\Hello World\main.cpp(4,1): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+  Hello World.vcxproj -> D:\Cpractice\程式碼\C++\Hello World\x64\Debug\Hello World.exe
