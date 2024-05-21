@@ -1,0 +1,15 @@
+D:\Cpractice\程式碼\C#程式碼\AreaCalculator\AreaCalculator\obj\Debug\net8.0\AreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cpractice\程式碼\C#程式碼\AreaCalculator\AreaCalculator\obj\Debug\net8.0\AreaCalculator.AssemblyInfoInputs.cache
+D:\Cpractice\程式碼\C#程式碼\AreaCalculator\AreaCalculator\obj\Debug\net8.0\AreaCalculator.AssemblyInfo.cs
+D:\Cpractice\程式碼\C#程式碼\AreaCalculator\AreaCalculator\obj\Debug\net8.0\AreaCalculator.csproj.CoreCompileInputs.cache
+D:\Cpractice\程式碼\C#程式碼\AreaCalculator\AreaCalculator\obj\Debug\net8.0\AreaCalculator.sourcelink.json
+D:\Cpractice\程式碼\C#程式碼\AreaCalculator\AreaCalculator\bin\Debug\net8.0\AreaCalculator.exe
+D:\Cpractice\程式碼\C#程式碼\AreaCalculator\AreaCalculator\bin\Debug\net8.0\AreaCalculator.deps.json
+D:\Cpractice\程式碼\C#程式碼\AreaCalculator\AreaCalculator\bin\Debug\net8.0\AreaCalculator.runtimeconfig.json
+D:\Cpractice\程式碼\C#程式碼\AreaCalculator\AreaCalculator\bin\Debug\net8.0\AreaCalculator.dll
+D:\Cpractice\程式碼\C#程式碼\AreaCalculator\AreaCalculator\bin\Debug\net8.0\AreaCalculator.pdb
+D:\Cpractice\程式碼\C#程式碼\AreaCalculator\AreaCalculator\obj\Debug\net8.0\AreaCalculator.dll
+D:\Cpractice\程式碼\C#程式碼\AreaCalculator\AreaCalculator\obj\Debug\net8.0\refint\AreaCalculator.dll
+D:\Cpractice\程式碼\C#程式碼\AreaCalculator\AreaCalculator\obj\Debug\net8.0\AreaCalculator.pdb
+D:\Cpractice\程式碼\C#程式碼\AreaCalculator\AreaCalculator\obj\Debug\net8.0\AreaCalculator.genruntimeconfig.cache
+D:\Cpractice\程式碼\C#程式碼\AreaCalculator\AreaCalculator\obj\Debug\net8.0\ref\AreaCalculator.dll
