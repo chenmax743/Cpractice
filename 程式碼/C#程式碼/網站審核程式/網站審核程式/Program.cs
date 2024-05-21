@@ -5,6 +5,7 @@
     public void SayHi()
     {
         Console.WriteLine("Hi" +  name  + "My name is Rem");
+        Console.WriteLine("How can I help");
         
     }
     public bool isAdult()
