@@ -1,7 +1,7 @@
 ﻿Person person = new Person();
 person.name = "nom";
 person.SayHi();
-person.age = 15;
+person.age = 18;
 
 if(person.isAdult())
 {

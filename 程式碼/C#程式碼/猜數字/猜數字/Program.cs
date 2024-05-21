@@ -1,6 +1,6 @@
 ﻿//猜數字遊戲
 
-int secret_num = 100;
+int secret_num = 50;
 int guess;
 int guess_count = 0;
 int guess_limit = 3;

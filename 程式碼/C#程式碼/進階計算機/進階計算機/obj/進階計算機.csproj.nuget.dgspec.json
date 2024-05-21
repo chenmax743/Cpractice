@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\Cpractice\\程式碼\\C#程式碼\\進階計算機\\進階計算機\\進階計算機.csproj": {}
+    "C:\\Users\\chenmax743\\OneDrive\\文件\\程式語言練習\\Cpractice\\程式碼\\C#程式碼\\進階計算機\\進階計算機\\進階計算機.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\Cpractice\\程式碼\\C#程式碼\\進階計算機\\進階計算機\\進階計算機.csproj": {
+    "C:\\Users\\chenmax743\\OneDrive\\文件\\程式語言練習\\Cpractice\\程式碼\\C#程式碼\\進階計算機\\進階計算機\\進階計算機.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\Cpractice\\程式碼\\C#程式碼\\進階計算機\\進階計算機\\進階計算機.csproj",
+        "projectUniqueName": "C:\\Users\\chenmax743\\OneDrive\\文件\\程式語言練習\\Cpractice\\程式碼\\C#程式碼\\進階計算機\\進階計算機\\進階計算機.csproj",
         "projectName": "進階計算機",
-        "projectPath": "C:\\Users\\User\\Documents\\Cpractice\\程式碼\\C#程式碼\\進階計算機\\進階計算機\\進階計算機.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\Cpractice\\程式碼\\C#程式碼\\進階計算機\\進階計算機\\obj\\",
+        "projectPath": "C:\\Users\\chenmax743\\OneDrive\\文件\\程式語言練習\\Cpractice\\程式碼\\C#程式碼\\進階計算機\\進階計算機\\進階計算機.csproj",
+        "packagesPath": "C:\\Users\\chenmax743\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chenmax743\\OneDrive\\文件\\程式語言練習\\Cpractice\\程式碼\\C#程式碼\\進階計算機\\進階計算機\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chenmax743\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
