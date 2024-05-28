@@ -1,0 +1,15 @@
+D:\Cpractice\Cpractice\程式碼\C#程式碼\BasedCombatGame\BasedCombatGame\bin\Debug\net8.0\BasedCombatGame.exe
+D:\Cpractice\Cpractice\程式碼\C#程式碼\BasedCombatGame\BasedCombatGame\bin\Debug\net8.0\BasedCombatGame.deps.json
+D:\Cpractice\Cpractice\程式碼\C#程式碼\BasedCombatGame\BasedCombatGame\bin\Debug\net8.0\BasedCombatGame.runtimeconfig.json
+D:\Cpractice\Cpractice\程式碼\C#程式碼\BasedCombatGame\BasedCombatGame\bin\Debug\net8.0\BasedCombatGame.dll
+D:\Cpractice\Cpractice\程式碼\C#程式碼\BasedCombatGame\BasedCombatGame\bin\Debug\net8.0\BasedCombatGame.pdb
+D:\Cpractice\Cpractice\程式碼\C#程式碼\BasedCombatGame\BasedCombatGame\obj\Debug\net8.0\BasedCombatGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cpractice\Cpractice\程式碼\C#程式碼\BasedCombatGame\BasedCombatGame\obj\Debug\net8.0\BasedCombatGame.AssemblyInfoInputs.cache
+D:\Cpractice\Cpractice\程式碼\C#程式碼\BasedCombatGame\BasedCombatGame\obj\Debug\net8.0\BasedCombatGame.AssemblyInfo.cs
+D:\Cpractice\Cpractice\程式碼\C#程式碼\BasedCombatGame\BasedCombatGame\obj\Debug\net8.0\BasedCombatGame.csproj.CoreCompileInputs.cache
+D:\Cpractice\Cpractice\程式碼\C#程式碼\BasedCombatGame\BasedCombatGame\obj\Debug\net8.0\BasedCombatGame.sourcelink.json
+D:\Cpractice\Cpractice\程式碼\C#程式碼\BasedCombatGame\BasedCombatGame\obj\Debug\net8.0\BasedCombatGame.dll
+D:\Cpractice\Cpractice\程式碼\C#程式碼\BasedCombatGame\BasedCombatGame\obj\Debug\net8.0\refint\BasedCombatGame.dll
+D:\Cpractice\Cpractice\程式碼\C#程式碼\BasedCombatGame\BasedCombatGame\obj\Debug\net8.0\BasedCombatGame.pdb
+D:\Cpractice\Cpractice\程式碼\C#程式碼\BasedCombatGame\BasedCombatGame\obj\Debug\net8.0\BasedCombatGame.genruntimeconfig.cache
+D:\Cpractice\Cpractice\程式碼\C#程式碼\BasedCombatGame\BasedCombatGame\obj\Debug\net8.0\ref\BasedCombatGame.dll

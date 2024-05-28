@@ -1,0 +1,15 @@
+D:\Cpractice\Cpractice\程式碼\C#程式碼\MajanProject\MajanProject\bin\Debug\net8.0\MajanProject.exe
+D:\Cpractice\Cpractice\程式碼\C#程式碼\MajanProject\MajanProject\bin\Debug\net8.0\MajanProject.deps.json
+D:\Cpractice\Cpractice\程式碼\C#程式碼\MajanProject\MajanProject\bin\Debug\net8.0\MajanProject.runtimeconfig.json
+D:\Cpractice\Cpractice\程式碼\C#程式碼\MajanProject\MajanProject\bin\Debug\net8.0\MajanProject.dll
+D:\Cpractice\Cpractice\程式碼\C#程式碼\MajanProject\MajanProject\bin\Debug\net8.0\MajanProject.pdb
+D:\Cpractice\Cpractice\程式碼\C#程式碼\MajanProject\MajanProject\obj\Debug\net8.0\MajanProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cpractice\Cpractice\程式碼\C#程式碼\MajanProject\MajanProject\obj\Debug\net8.0\MajanProject.AssemblyInfoInputs.cache
+D:\Cpractice\Cpractice\程式碼\C#程式碼\MajanProject\MajanProject\obj\Debug\net8.0\MajanProject.AssemblyInfo.cs
+D:\Cpractice\Cpractice\程式碼\C#程式碼\MajanProject\MajanProject\obj\Debug\net8.0\MajanProject.csproj.CoreCompileInputs.cache
+D:\Cpractice\Cpractice\程式碼\C#程式碼\MajanProject\MajanProject\obj\Debug\net8.0\MajanProject.sourcelink.json
+D:\Cpractice\Cpractice\程式碼\C#程式碼\MajanProject\MajanProject\obj\Debug\net8.0\MajanProject.dll
+D:\Cpractice\Cpractice\程式碼\C#程式碼\MajanProject\MajanProject\obj\Debug\net8.0\refint\MajanProject.dll
+D:\Cpractice\Cpractice\程式碼\C#程式碼\MajanProject\MajanProject\obj\Debug\net8.0\MajanProject.pdb
+D:\Cpractice\Cpractice\程式碼\C#程式碼\MajanProject\MajanProject\obj\Debug\net8.0\MajanProject.genruntimeconfig.cache
+D:\Cpractice\Cpractice\程式碼\C#程式碼\MajanProject\MajanProject\obj\Debug\net8.0\ref\MajanProject.dll

@@ -1,0 +1,15 @@
+D:\Cpractice\Cpractice\程式碼\C#程式碼\RockPaperGame\RockPaperGame\obj\Debug\net8.0\RockPaperGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cpractice\Cpractice\程式碼\C#程式碼\RockPaperGame\RockPaperGame\obj\Debug\net8.0\RockPaperGame.AssemblyInfoInputs.cache
+D:\Cpractice\Cpractice\程式碼\C#程式碼\RockPaperGame\RockPaperGame\obj\Debug\net8.0\RockPaperGame.AssemblyInfo.cs
+D:\Cpractice\Cpractice\程式碼\C#程式碼\RockPaperGame\RockPaperGame\obj\Debug\net8.0\RockPaperGame.csproj.CoreCompileInputs.cache
+D:\Cpractice\Cpractice\程式碼\C#程式碼\RockPaperGame\RockPaperGame\obj\Debug\net8.0\RockPaperGame.sourcelink.json
+D:\Cpractice\Cpractice\程式碼\C#程式碼\RockPaperGame\RockPaperGame\bin\Debug\net8.0\RockPaperGame.exe
+D:\Cpractice\Cpractice\程式碼\C#程式碼\RockPaperGame\RockPaperGame\bin\Debug\net8.0\RockPaperGame.deps.json
+D:\Cpractice\Cpractice\程式碼\C#程式碼\RockPaperGame\RockPaperGame\bin\Debug\net8.0\RockPaperGame.runtimeconfig.json
+D:\Cpractice\Cpractice\程式碼\C#程式碼\RockPaperGame\RockPaperGame\bin\Debug\net8.0\RockPaperGame.dll
+D:\Cpractice\Cpractice\程式碼\C#程式碼\RockPaperGame\RockPaperGame\bin\Debug\net8.0\RockPaperGame.pdb
+D:\Cpractice\Cpractice\程式碼\C#程式碼\RockPaperGame\RockPaperGame\obj\Debug\net8.0\RockPaperGame.dll
+D:\Cpractice\Cpractice\程式碼\C#程式碼\RockPaperGame\RockPaperGame\obj\Debug\net8.0\refint\RockPaperGame.dll
+D:\Cpractice\Cpractice\程式碼\C#程式碼\RockPaperGame\RockPaperGame\obj\Debug\net8.0\RockPaperGame.pdb
+D:\Cpractice\Cpractice\程式碼\C#程式碼\RockPaperGame\RockPaperGame\obj\Debug\net8.0\RockPaperGame.genruntimeconfig.cache
+D:\Cpractice\Cpractice\程式碼\C#程式碼\RockPaperGame\RockPaperGame\obj\Debug\net8.0\ref\RockPaperGame.dll
