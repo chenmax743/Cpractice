@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\chenmax743\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cpractice\\程式碼\\C#程式碼\\AreaCalculator\\AreaCalculator\\AreaCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\chenmax743\\OneDrive\\文件\\程式語言練習\\Cpractice\\程式碼\\C#程式碼\\AreaCalculator\\AreaCalculator\\AreaCalculator.csproj",
       "projectName": "AreaCalculator",
-      "projectPath": "D:\\Cpractice\\程式碼\\C#程式碼\\AreaCalculator\\AreaCalculator\\AreaCalculator.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Cpractice\\程式碼\\C#程式碼\\AreaCalculator\\AreaCalculator\\obj\\",
+      "projectPath": "C:\\Users\\chenmax743\\OneDrive\\文件\\程式語言練習\\Cpractice\\程式碼\\C#程式碼\\AreaCalculator\\AreaCalculator\\AreaCalculator.csproj",
+      "packagesPath": "C:\\Users\\chenmax743\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\chenmax743\\OneDrive\\文件\\程式語言練習\\Cpractice\\程式碼\\C#程式碼\\AreaCalculator\\AreaCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\chenmax743\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
