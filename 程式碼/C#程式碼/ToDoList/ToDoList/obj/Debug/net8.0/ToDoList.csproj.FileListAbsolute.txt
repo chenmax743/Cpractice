@@ -1,0 +1,15 @@
+D:\Cpractice\Cpractice\程式碼\C#程式碼\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.exe
+D:\Cpractice\Cpractice\程式碼\C#程式碼\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.deps.json
+D:\Cpractice\Cpractice\程式碼\C#程式碼\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.runtimeconfig.json
+D:\Cpractice\Cpractice\程式碼\C#程式碼\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.dll
+D:\Cpractice\Cpractice\程式碼\C#程式碼\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.pdb
+D:\Cpractice\Cpractice\程式碼\C#程式碼\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cpractice\Cpractice\程式碼\C#程式碼\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.AssemblyInfoInputs.cache
+D:\Cpractice\Cpractice\程式碼\C#程式碼\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.AssemblyInfo.cs
+D:\Cpractice\Cpractice\程式碼\C#程式碼\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.csproj.CoreCompileInputs.cache
+D:\Cpractice\Cpractice\程式碼\C#程式碼\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.sourcelink.json
+D:\Cpractice\Cpractice\程式碼\C#程式碼\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.dll
+D:\Cpractice\Cpractice\程式碼\C#程式碼\ToDoList\ToDoList\obj\Debug\net8.0\refint\ToDoList.dll
+D:\Cpractice\Cpractice\程式碼\C#程式碼\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.pdb
+D:\Cpractice\Cpractice\程式碼\C#程式碼\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.genruntimeconfig.cache
+D:\Cpractice\Cpractice\程式碼\C#程式碼\ToDoList\ToDoList\obj\Debug\net8.0\ref\ToDoList.dll
