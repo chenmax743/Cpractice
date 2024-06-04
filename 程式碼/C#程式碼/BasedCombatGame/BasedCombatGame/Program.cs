@@ -12,6 +12,7 @@ namespace BaseGame
             int enemyAttack = 7;
 
             int healAmount = 5;
+            int flameArrow = 10;
 
             Random random = new Random();
 
@@ -20,6 +21,7 @@ namespace BaseGame
                 Console.WriteLine("--Player turn--");
                 Console.WriteLine("玩家血量" + playerHP + "敵人血量" + enemyHP);
                 Console.WriteLine("按下 'a' 攻擊 ， 按下 'h' 恢復");
+                
 
                 string choice = Console.ReadLine();
 
@@ -28,12 +30,16 @@ namespace BaseGame
                     enemyHP -= playerAttack;
                     Console.WriteLine("玩家對敵人造成了 " + playerAttack + "傷害!");
                 }
-                else
+                else if(choice =="h")
                 {
                     playerHP += healAmount;
                     Console.WriteLine("玩家治療了" + healAmount + "滴血!");
                 }
-
+                else
+                {
+                    flameArrow -= playerAttack;
+                    Console.WriteLine("flame attack");
+                }
                 //敵人的回合
 
                 if(enemyHP>0)

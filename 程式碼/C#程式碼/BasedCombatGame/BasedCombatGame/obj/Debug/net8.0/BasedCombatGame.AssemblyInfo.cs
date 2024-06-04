@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BasedCombatGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bff06c2ec45137f2d1f03bfe4970866f90b33b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d1175c349b86ec8049adfb385172899790eb510")]
 [assembly: System.Reflection.AssemblyProductAttribute("BasedCombatGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BasedCombatGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
