@@ -1,0 +1,15 @@
+D:\Cpractice\Cpractice\程式碼\C#程式碼\CurrencyConverter\CurrencyConverter\bin\Debug\net8.0\CurrencyConverter.exe
+D:\Cpractice\Cpractice\程式碼\C#程式碼\CurrencyConverter\CurrencyConverter\bin\Debug\net8.0\CurrencyConverter.deps.json
+D:\Cpractice\Cpractice\程式碼\C#程式碼\CurrencyConverter\CurrencyConverter\bin\Debug\net8.0\CurrencyConverter.runtimeconfig.json
+D:\Cpractice\Cpractice\程式碼\C#程式碼\CurrencyConverter\CurrencyConverter\bin\Debug\net8.0\CurrencyConverter.dll
+D:\Cpractice\Cpractice\程式碼\C#程式碼\CurrencyConverter\CurrencyConverter\bin\Debug\net8.0\CurrencyConverter.pdb
+D:\Cpractice\Cpractice\程式碼\C#程式碼\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0\CurrencyConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cpractice\Cpractice\程式碼\C#程式碼\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0\CurrencyConverter.AssemblyInfoInputs.cache
+D:\Cpractice\Cpractice\程式碼\C#程式碼\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0\CurrencyConverter.AssemblyInfo.cs
+D:\Cpractice\Cpractice\程式碼\C#程式碼\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0\CurrencyConverter.csproj.CoreCompileInputs.cache
+D:\Cpractice\Cpractice\程式碼\C#程式碼\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0\CurrencyConverter.sourcelink.json
+D:\Cpractice\Cpractice\程式碼\C#程式碼\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0\CurrencyConverter.dll
+D:\Cpractice\Cpractice\程式碼\C#程式碼\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0\refint\CurrencyConverter.dll
+D:\Cpractice\Cpractice\程式碼\C#程式碼\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0\CurrencyConverter.pdb
+D:\Cpractice\Cpractice\程式碼\C#程式碼\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0\CurrencyConverter.genruntimeconfig.cache
+D:\Cpractice\Cpractice\程式碼\C#程式碼\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0\ref\CurrencyConverter.dll
