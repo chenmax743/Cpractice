@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("網站審核程式")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3aff29e5910ec8793785870da644268839318fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b8ec01ce376309009eb411627d2da53cf73d02d")]
 [assembly: System.Reflection.AssemblyProductAttribute("網站審核程式")]
 [assembly: System.Reflection.AssemblyTitleAttribute("網站審核程式")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
