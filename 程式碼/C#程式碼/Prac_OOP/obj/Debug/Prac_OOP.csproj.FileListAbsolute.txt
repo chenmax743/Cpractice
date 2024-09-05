@@ -1,0 +1,10 @@
+D:\Cpractice\Cpractice\程式碼\C#程式碼\Prac_OOP\bin\Debug\Prac_OOP.exe.config
+D:\Cpractice\Cpractice\程式碼\C#程式碼\Prac_OOP\bin\Debug\Prac_OOP.exe
+D:\Cpractice\Cpractice\程式碼\C#程式碼\Prac_OOP\bin\Debug\Prac_OOP.pdb
+D:\Cpractice\Cpractice\程式碼\C#程式碼\Prac_OOP\obj\Debug\Prac_OOP.csproj.AssemblyReference.cache
+D:\Cpractice\Cpractice\程式碼\C#程式碼\Prac_OOP\obj\Debug\Prac_OOP.Form1.resources
+D:\Cpractice\Cpractice\程式碼\C#程式碼\Prac_OOP\obj\Debug\Prac_OOP.Properties.Resources.resources
+D:\Cpractice\Cpractice\程式碼\C#程式碼\Prac_OOP\obj\Debug\Prac_OOP.csproj.GenerateResource.cache
+D:\Cpractice\Cpractice\程式碼\C#程式碼\Prac_OOP\obj\Debug\Prac_OOP.csproj.CoreCompileInputs.cache
+D:\Cpractice\Cpractice\程式碼\C#程式碼\Prac_OOP\obj\Debug\Prac_OOP.exe
+D:\Cpractice\Cpractice\程式碼\C#程式碼\Prac_OOP\obj\Debug\Prac_OOP.pdb

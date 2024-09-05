@@ -1,0 +1,6 @@
+D:\Cpractice\Cpractice\程式碼\C#程式碼\EC\EC_Library\bin\Debug\EC_Library.dll
+D:\Cpractice\Cpractice\程式碼\C#程式碼\EC\EC_Library\bin\Debug\EC_Library.pdb
+D:\Cpractice\Cpractice\程式碼\C#程式碼\EC\EC_Library\obj\Debug\EC_Library.csproj.AssemblyReference.cache
+D:\Cpractice\Cpractice\程式碼\C#程式碼\EC\EC_Library\obj\Debug\EC_Library.csproj.CoreCompileInputs.cache
+D:\Cpractice\Cpractice\程式碼\C#程式碼\EC\EC_Library\obj\Debug\EC_Library.dll
+D:\Cpractice\Cpractice\程式碼\C#程式碼\EC\EC_Library\obj\Debug\EC_Library.pdb

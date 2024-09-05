@@ -1,0 +1,13 @@
+D:\Cpractice\Cpractice\程式碼\C#程式碼\EC\EC_Management\bin\Debug\EC_Management.exe.config
+D:\Cpractice\Cpractice\程式碼\C#程式碼\EC\EC_Management\bin\Debug\EC_Management.exe
+D:\Cpractice\Cpractice\程式碼\C#程式碼\EC\EC_Management\bin\Debug\EC_Management.pdb
+D:\Cpractice\Cpractice\程式碼\C#程式碼\EC\EC_Management\bin\Debug\EC_Library.dll
+D:\Cpractice\Cpractice\程式碼\C#程式碼\EC\EC_Management\bin\Debug\EC_Library.pdb
+D:\Cpractice\Cpractice\程式碼\C#程式碼\EC\EC_Management\obj\Debug\EC_Management.csproj.AssemblyReference.cache
+D:\Cpractice\Cpractice\程式碼\C#程式碼\EC\EC_Management\obj\Debug\EC_Management.Form1.resources
+D:\Cpractice\Cpractice\程式碼\C#程式碼\EC\EC_Management\obj\Debug\EC_Management.Properties.Resources.resources
+D:\Cpractice\Cpractice\程式碼\C#程式碼\EC\EC_Management\obj\Debug\EC_Management.csproj.GenerateResource.cache
+D:\Cpractice\Cpractice\程式碼\C#程式碼\EC\EC_Management\obj\Debug\EC_Management.csproj.CoreCompileInputs.cache
+D:\Cpractice\Cpractice\程式碼\C#程式碼\EC\EC_Management\obj\Debug\EC_Manag.BE844FBE.Up2Date
+D:\Cpractice\Cpractice\程式碼\C#程式碼\EC\EC_Management\obj\Debug\EC_Management.exe
+D:\Cpractice\Cpractice\程式碼\C#程式碼\EC\EC_Management\obj\Debug\EC_Management.pdb
