@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Cpractice\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_OOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A10A7D4-8A99-4690-8C9B-B84DE3B6B22A}|Prac_OOP.csproj|D:\\Cpractice\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_OOP\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A10A7D4-8A99-4690-8C9B-B84DE3B6B22A}|Prac_OOP.csproj|solutionrelative:smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A10A7D4-8A99-4690-8C9B-B84DE3B6B22A}|Prac_OOP.csproj|d:\\cpractice\\cpractice\\\u7A0B\u5F0F\u78BC\\c#\u7A0B\u5F0F\u78BC\\prac_oop\\claculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A10A7D4-8A99-4690-8C9B-B84DE3B6B22A}|Prac_OOP.csproj|solutionrelative:claculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A10A7D4-8A99-4690-8C9B-B84DE3B6B22A}|Prac_OOP.csproj|d:\\cpractice\\cpractice\\\u7A0B\u5F0F\u78BC\\c#\u7A0B\u5F0F\u78BC\\prac_oop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A10A7D4-8A99-4690-8C9B-B84DE3B6B22A}|Prac_OOP.csproj|D:\\Cpractice\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_OOP\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A10A7D4-8A99-4690-8C9B-B84DE3B6B22A}|Prac_OOP.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A10A7D4-8A99-4690-8C9B-B84DE3B6B22A}|Prac_OOP.csproj|d:\\cpractice\\cpractice\\\u7A0B\u5F0F\u78BC\\c#\u7A0B\u5F0F\u78BC\\prac_oop\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A10A7D4-8A99-4690-8C9B-B84DE3B6B22A}|Prac_OOP.csproj|solutionrelative:smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A10A7D4-8A99-4690-8C9B-B84DE3B6B22A}|Prac_OOP.csproj|D:\\Cpractice\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_OOP\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -22,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [\u8A2D\u8A08]",
               "DocumentMoniker": "D:\\Cpractice\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_OOP\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -38,13 +42,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SmartPhone.cs",
               "DocumentMoniker": "D:\\Cpractice\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_OOP\\SmartPhone.cs",
               "RelativeDocumentMoniker": "SmartPhone.cs",
               "ToolTip": "D:\\Cpractice\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_OOP\\SmartPhone.cs",
               "RelativeToolTip": "SmartPhone.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T06:38:43.013Z",
               "EditorCaption": ""
@@ -57,9 +61,22 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\Cpractice\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_OOP\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAcAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwCQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T06:48:10.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Claculator.cs",
+              "DocumentMoniker": "D:\\Cpractice\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_OOP\\Claculator.cs",
+              "RelativeDocumentMoniker": "Claculator.cs",
+              "ToolTip": "D:\\Cpractice\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_OOP\\Claculator.cs",
+              "RelativeToolTip": "Claculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:27:32.476Z",
               "EditorCaption": ""
             }
           ]

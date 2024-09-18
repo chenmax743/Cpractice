@@ -31,6 +31,9 @@ namespace Prac_OOP
             Phone2.ScreenSize = 6.7;
             Phone2.TurnOn();
 
+            Claculator c = new Claculator();
+            double r;
+            r = c.AddTwoNumbers(123.45, 483.23);
 
         }
     }

@@ -1,0 +1,7 @@
+D:\Cpractice\Cpractice\程式碼\C#程式碼\Prac_Variable\bin\Debug\Prac_Variable.exe.config
+D:\Cpractice\Cpractice\程式碼\C#程式碼\Prac_Variable\bin\Debug\Prac_Variable.exe
+D:\Cpractice\Cpractice\程式碼\C#程式碼\Prac_Variable\bin\Debug\Prac_Variable.pdb
+D:\Cpractice\Cpractice\程式碼\C#程式碼\Prac_Variable\obj\Debug\Prac_Variable.csproj.AssemblyReference.cache
+D:\Cpractice\Cpractice\程式碼\C#程式碼\Prac_Variable\obj\Debug\Prac_Variable.csproj.CoreCompileInputs.cache
+D:\Cpractice\Cpractice\程式碼\C#程式碼\Prac_Variable\obj\Debug\Prac_Variable.exe
+D:\Cpractice\Cpractice\程式碼\C#程式碼\Prac_Variable\obj\Debug\Prac_Variable.pdb
