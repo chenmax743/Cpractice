@@ -37,12 +37,14 @@ namespace Prac_Variable
             //}
             //else
             //{
-            //    Console.WriteLine("比較大的是" + iNum2);
+            //    Console.WriteLine("比較大的數是" + iNum2);
             //}
             //Console.ReadKey();
-            //do { 
-            //Console.WriteLine("輸入西元紀年");
-            //int iNum1 = Convert.ToInt32(Console.ReadLine());
+
+            //do
+            //{
+            //    Console.WriteLine("輸入西元紀年");
+            //    int iNum1 = Convert.ToInt32(Console.ReadLine());
 
 
             //    if (iNum1 % 400 == 0)
@@ -57,23 +59,29 @@ namespace Prac_Variable
             //    {
             //        Console.WriteLine(iNum1 + "是閨年");
             //    }
+            //    else
+            //    {
+            //        Console.WriteLine($"{iNum1}不是閨年");
+            //    }
             //} while (true);
 
-            Console.WriteLine("101到200偶數累加為");
-            int iSum = 0;
-            int i = 101;
+            //Console.WriteLine("101到200偶數累加為");
+            //int iSum = 0;
+            //int i = 101;
 
-            while(i<=200)
-            {
-                if(i%2==0)
-                {
-                    iSum += i;
-                }
-                i++;
-            }
-            Console.WriteLine(iSum);
+            //while(i<=200)
+            //{
+            //    if(i%2==0)
+            //    {
+            //        iSum += i;
+            //    }
+            //    i++;
+            //}
+            //Console.WriteLine(iSum);
+
+
             Console.ReadKey();
-                    
+
         }
     }
 }
