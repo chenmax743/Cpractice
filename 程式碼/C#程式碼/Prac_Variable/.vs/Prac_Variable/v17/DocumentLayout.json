@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\\u7A0B\u5F0F\u8A9E\u8A00\u8CC7\u6599\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_Variable\\",
+  "WorkspaceRootPath": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_Variable\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF625006-50F0-4B1F-850F-7F1F7985F932}|Prac_Variable.csproj|c:\\\u7A0B\u5F0F\u8A9E\u8A00\u8CC7\u6599\\cpractice\\\u7A0B\u5F0F\u78BC\\c#\u7A0B\u5F0F\u78BC\\prac_variable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF625006-50F0-4B1F-850F-7F1F7985F932}|Prac_Variable.csproj|d:\\\u5404\u7A2E\u7A0B\u5F0F(git hub)\\cpractice\\\u7A0B\u5F0F\u78BC\\c#\u7A0B\u5F0F\u78BC\\prac_variable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF625006-50F0-4B1F-850F-7F1F7985F932}|Prac_Variable.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\\u7A0B\u5F0F\u8A9E\u8A00\u8CC7\u6599\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_Variable\\Program.cs",
+              "DocumentMoniker": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_Variable\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\\u7A0B\u5F0F\u8A9E\u8A00\u8CC7\u6599\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_Variable\\Program.cs",
+              "ToolTip": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_Variable\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAywB4AAAAlAAAAAAAAAA==",
+              "ViewState": "AQIAAAgAAAAAAAAAAABAwBoAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T05:20:35.737Z",
               "EditorCaption": ""

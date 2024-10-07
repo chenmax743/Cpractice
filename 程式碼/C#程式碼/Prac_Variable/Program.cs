@@ -10,25 +10,33 @@ namespace Prac_Variable
     {
         static void Main(string[] args)
         {
-            //    int[] Score = new int[] { 68,173,19,524};
-            //    Console.WriteLine("排序前");
-            //    foreach (int score in Score)
-            //    {
-            //        Console.WriteLine($"{score,4}");
-            //    }
-            //    Console.WriteLine("排序後");
-            //    Array.Sort(Score);
-            //    Array.Reverse(Score); 
-            //    foreach(int score in Score)
-            //    {
-            //        Console.WriteLine($"{score,4}");
-            //    }
-            //    Console.WriteLine();
+            int  i, j;
+            int[] v = new int[5];
+            for(i=0;i<5;i++)
+            {
+                Console.WriteLine($"輸入五{i+1}個數字");
+                v[i] = int.Parse( Console.ReadLine() );
+            }
+            for(i=0;i<5;i++)
+            {
+                for(j=0;j<4-i;j++)
+                {
+                    if (v[j] > v[j+1])
+                    {
+                        int t = v[j];
+                        v[j] = v[j+1];
+                        v[j+1] = t;
 
-            //    int Index = Array.IndexOf(Score,19);
-            //    Console.WriteLine("元素19,Insex=" + Index);
+                    }
+                }
+            }
 
-            int[,]Num= new int [3,4];
+            for(i=0;i<5; i++)
+            {
+                Console.WriteLine(v[i]);
+            }
+          
+            
 
 
             Console.ReadLine();

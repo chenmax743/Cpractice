@@ -12,3 +12,10 @@ C:\程式語言資料\Cpractice\程式碼\C#程式碼\Prac_Variable\obj\Debug\Pr
 C:\程式語言資料\Cpractice\程式碼\C#程式碼\Prac_Variable\obj\Debug\Prac_Variable.csproj.CoreCompileInputs.cache
 C:\程式語言資料\Cpractice\程式碼\C#程式碼\Prac_Variable\obj\Debug\Prac_Variable.exe
 C:\程式語言資料\Cpractice\程式碼\C#程式碼\Prac_Variable\obj\Debug\Prac_Variable.pdb
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_Variable\bin\Debug\Prac_Variable.exe.config
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_Variable\bin\Debug\Prac_Variable.exe
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_Variable\bin\Debug\Prac_Variable.pdb
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_Variable\obj\Debug\Prac_Variable.csproj.AssemblyReference.cache
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_Variable\obj\Debug\Prac_Variable.csproj.CoreCompileInputs.cache
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_Variable\obj\Debug\Prac_Variable.exe
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_Variable\obj\Debug\Prac_Variable.pdb
