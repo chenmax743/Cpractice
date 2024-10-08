@@ -1,0 +1,7 @@
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Practice_Home\bin\Debug\Practice_Home.exe.config
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Practice_Home\bin\Debug\Practice_Home.exe
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Practice_Home\bin\Debug\Practice_Home.pdb
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Practice_Home\obj\Debug\Practice_Home.csproj.AssemblyReference.cache
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Practice_Home\obj\Debug\Practice_Home.csproj.CoreCompileInputs.cache
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Practice_Home\obj\Debug\Practice_Home.exe
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Practice_Home\obj\Debug\Practice_Home.pdb
