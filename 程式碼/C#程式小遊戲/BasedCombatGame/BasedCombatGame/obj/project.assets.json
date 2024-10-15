@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\chenmax743\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chenmax743\\OneDrive\\文件\\程式語言練習\\Cpractice\\程式碼\\C#程式碼\\BasedCombatGame\\BasedCombatGame\\BasedCombatGame.csproj",
+      "projectUniqueName": "D:\\各種程式(GIT HUB)\\Cpractice\\程式碼\\C#程式小遊戲\\BasedCombatGame\\BasedCombatGame\\BasedCombatGame.csproj",
       "projectName": "BasedCombatGame",
-      "projectPath": "C:\\Users\\chenmax743\\OneDrive\\文件\\程式語言練習\\Cpractice\\程式碼\\C#程式碼\\BasedCombatGame\\BasedCombatGame\\BasedCombatGame.csproj",
-      "packagesPath": "C:\\Users\\chenmax743\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chenmax743\\OneDrive\\文件\\程式語言練習\\Cpractice\\程式碼\\C#程式碼\\BasedCombatGame\\BasedCombatGame\\obj\\",
+      "projectPath": "D:\\各種程式(GIT HUB)\\Cpractice\\程式碼\\C#程式小遊戲\\BasedCombatGame\\BasedCombatGame\\BasedCombatGame.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\各種程式(GIT HUB)\\Cpractice\\程式碼\\C#程式小遊戲\\BasedCombatGame\\BasedCombatGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\chenmax743\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

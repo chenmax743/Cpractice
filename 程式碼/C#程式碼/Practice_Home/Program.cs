@@ -9,33 +9,18 @@ namespace Practice_Home
 {
     internal class Program
     {
+        
         static void Main(string[] args)
         {
-            Random dice = new Random();
-            int iRoll1=dice.Next(1,7);
-            int iRoll2=dice.Next(1,7);
-            int iRoll3=dice.Next(1,7);
-
-            int total = iRoll1 + iRoll2 + iRoll3;
-
-            
-
-            Console.WriteLine($"Dice Roll :{iRoll1}+{iRoll2}+{iRoll3}={total}");
-
-            if (total > 14)
+            string[] names = { "Rowena", "Robin", "Bao" };
+            foreach (string Name in names)
             {
-                Console.WriteLine("You Win");
+                Console.WriteLine(Name);
             }
-            if (total < 15)
-            {
-                Console.WriteLine("You Lose");
-            }
-            
 
+            Console.ReadLine();
 
-
-
-            Console.ReadKey();
         }
     }
 }
+

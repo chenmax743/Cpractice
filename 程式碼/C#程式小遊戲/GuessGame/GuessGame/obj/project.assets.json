@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cpractice\\程式碼\\C#程式碼\\GuessGame\\GuessGame\\GuessGame.csproj",
+      "projectUniqueName": "D:\\各種程式(GIT HUB)\\Cpractice\\程式碼\\C#程式小遊戲\\GuessGame\\GuessGame\\GuessGame.csproj",
       "projectName": "GuessGame",
-      "projectPath": "D:\\Cpractice\\程式碼\\C#程式碼\\GuessGame\\GuessGame\\GuessGame.csproj",
+      "projectPath": "D:\\各種程式(GIT HUB)\\Cpractice\\程式碼\\C#程式小遊戲\\GuessGame\\GuessGame\\GuessGame.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Cpractice\\程式碼\\C#程式碼\\GuessGame\\GuessGame\\obj\\",
+      "outputPath": "D:\\各種程式(GIT HUB)\\Cpractice\\程式碼\\C#程式小遊戲\\GuessGame\\GuessGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

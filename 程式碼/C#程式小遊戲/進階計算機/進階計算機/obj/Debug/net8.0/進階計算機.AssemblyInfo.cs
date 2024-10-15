@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("進階計算機")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3aff29e5910ec8793785870da644268839318fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ece511c65823502852ed2c78b04de8e7a7810956")]
 [assembly: System.Reflection.AssemblyProductAttribute("進階計算機")]
 [assembly: System.Reflection.AssemblyTitleAttribute("進階計算機")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
