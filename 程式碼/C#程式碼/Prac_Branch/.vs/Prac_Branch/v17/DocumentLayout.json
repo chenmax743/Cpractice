@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_Branch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72AC659F-2C2B-4AA0-8964-1CEB952A389E}|Prac_Branch.csproj|d:\\\u5404\u7A2E\u7A0B\u5F0F(git hub)\\cpractice\\\u7A0B\u5F0F\u78BC\\c#\u7A0B\u5F0F\u78BC\\prac_branch\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{72AC659F-2C2B-4AA0-8964-1CEB952A389E}|Prac_Branch.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AC659F-2C2B-4AA0-8964-1CEB952A389E}|Prac_Branch.csproj|d:\\\u5404\u7A2E\u7A0B\u5F0F(git hub)\\cpractice\\\u7A0B\u5F0F\u78BC\\c#\u7A0B\u5F0F\u78BC\\prac_branch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AC659F-2C2B-4AA0-8964-1CEB952A389E}|Prac_Branch.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AC659F-2C2B-4AA0-8964-1CEB952A389E}|Prac_Branch.csproj|d:\\\u5404\u7A2E\u7A0B\u5F0F(git hub)\\cpractice\\\u7A0B\u5F0F\u78BC\\c#\u7A0B\u5F0F\u78BC\\prac_branch\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AC659F-2C2B-4AA0-8964-1CEB952A389E}|Prac_Branch.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AC659F-2C2B-4AA0-8964-1CEB952A389E}|Prac_Branch.csproj|d:\\\u5404\u7A2E\u7A0B\u5F0F(git hub)\\cpractice\\\u7A0B\u5F0F\u78BC\\c#\u7A0B\u5F0F\u78BC\\prac_branch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{72AC659F-2C2B-4AA0-8964-1CEB952A389E}|Prac_Branch.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_Branch\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_Branch\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:45:55.646Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_Branch\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_Branch\\Form3.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Form3.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:28:10.559Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_Branch\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_Branch\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:30:45.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_Branch\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_Branch\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:51:25.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

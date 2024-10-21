@@ -1,0 +1,11 @@
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_Branch\bin\Debug\Prac_Branch.exe.config
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_Branch\bin\Debug\Prac_Branch.exe
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_Branch\bin\Debug\Prac_Branch.pdb
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_Branch\obj\Debug\Prac_Branch.csproj.AssemblyReference.cache
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_Branch\obj\Debug\Prac_Branch.Form1.resources
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_Branch\obj\Debug\Prac_Branch.Properties.Resources.resources
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_Branch\obj\Debug\Prac_Branch.csproj.GenerateResource.cache
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_Branch\obj\Debug\Prac_Branch.csproj.CoreCompileInputs.cache
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_Branch\obj\Debug\Prac_Branch.exe
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_Branch\obj\Debug\Prac_Branch.pdb
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_Branch\obj\Debug\Prac_Branch.Form3.resources
