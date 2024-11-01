@@ -1,0 +1,7 @@
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_Node\bin\Debug\Prac_Node.exe.config
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_Node\bin\Debug\Prac_Node.exe
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_Node\bin\Debug\Prac_Node.pdb
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_Node\obj\Debug\Prac_Node.csproj.AssemblyReference.cache
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_Node\obj\Debug\Prac_Node.csproj.CoreCompileInputs.cache
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_Node\obj\Debug\Prac_Node.exe
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_Node\obj\Debug\Prac_Node.pdb
