@@ -17,7 +17,10 @@ namespace Prac_Node
 
             Console.Write("輸入新值->");
             num=int.Parse(Console.ReadLine());
-            list.AddLast(num);
+            //list.AddLast(num);
+            //list.AddFirst(num);
+            //list.InsertBehind(num,124);
+            list.InsertArt(num, 3);
             list.PrintList();
 
             Console.ReadLine();
