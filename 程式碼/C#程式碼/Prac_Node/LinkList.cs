@@ -29,16 +29,19 @@ namespace Prac_Node
 
         public void AddLast(int data)
         {
+            //指向目前節點的參考current，new運算子實體化新節點newNode
             Node current;
             Node newNode = new Node(data);
 
+            //如果第一個節點first是空的，就把新節點設為第一個節點
             if (first == null)
                 first = newNode;
-            else
+            else //有第一個節點就走訪
             {
                 current = first;
-                while (current.Next != null)
+                while (current.Next != null) //走放串列到最後節點
                     current = current.Next;
+                //目前節點的Next參考指向新節點
                 current.Next = newNode;
             }
         }
@@ -77,18 +80,19 @@ namespace Prac_Node
 
         public void RemoveFirst()
         {
-            if (first == null)
+            if (first == null) //檢查連結串列是否為空
                 return;
-            first=first.Next;
+            first=first.Next; //將first指向下一個節點
         }
 
         public void RemoveLast()
         {
-            if (first==null)
-            {
+            if (first == null)
                 Console.WriteLine("此串列是空的");
-            }
-            else 
+            else if (first.Next == null)
+                first = null;
+
+            else
             {
                 Node current = first;
                 while (current.Next.Next != null)

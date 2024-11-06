@@ -163,7 +163,7 @@ namespace Prac_Variable
 
 
 
-            Console.ReadLine();
+           
         }
     }
 }
