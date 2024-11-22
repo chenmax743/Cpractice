@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chenm\\Desktop\\Prac_NodeDatabase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51717E1A-1664-48DA-8565-C680CE1A3C6B}|Prac_NodeDatabase\\Prac_NodeDatabase.csproj|C:\\Users\\chenm\\Desktop\\Prac_NodeDatabase\\prac_nodedatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51717E1A-1664-48DA-8565-C680CE1A3C6B}|Prac_NodeDatabase\\Prac_NodeDatabase.csproj|solutionrelative:prac_nodedatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51717E1A-1664-48DA-8565-C680CE1A3C6B}|Prac_NodeDatabase\\Prac_NodeDatabase.csproj|c:\\users\\chenm\\desktop\\prac_nodedatabase\\prac_nodedatabase\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51717E1A-1664-48DA-8565-C680CE1A3C6B}|Prac_NodeDatabase\\Prac_NodeDatabase.csproj|solutionrelative:prac_nodedatabase\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51717E1A-1664-48DA-8565-C680CE1A3C6B}|Prac_NodeDatabase\\Prac_NodeDatabase.csproj|C:\\Users\\chenm\\Desktop\\Prac_NodeDatabase\\prac_nodedatabase\\polylomial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51717E1A-1664-48DA-8565-C680CE1A3C6B}|Prac_NodeDatabase\\Prac_NodeDatabase.csproj|solutionrelative:prac_nodedatabase\\polylomial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Polylomial.cs",
+              "DocumentMoniker": "C:\\Users\\chenm\\Desktop\\Prac_NodeDatabase\\Prac_NodeDatabase\\Polylomial.cs",
+              "RelativeDocumentMoniker": "Prac_NodeDatabase\\Polylomial.cs",
+              "ToolTip": "C:\\Users\\chenm\\Desktop\\Prac_NodeDatabase\\Prac_NodeDatabase\\Polylomial.cs",
+              "RelativeToolTip": "Prac_NodeDatabase\\Polylomial.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:59:40.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\chenm\\Desktop\\Prac_NodeDatabase\\Prac_NodeDatabase\\Node.cs",
+              "RelativeDocumentMoniker": "Prac_NodeDatabase\\Node.cs",
+              "ToolTip": "C:\\Users\\chenm\\Desktop\\Prac_NodeDatabase\\Prac_NodeDatabase\\Node.cs",
+              "RelativeToolTip": "Prac_NodeDatabase\\Node.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:54:29.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chenm\\Desktop\\Prac_NodeDatabase\\Prac_NodeDatabase\\Program.cs",
+              "RelativeDocumentMoniker": "Prac_NodeDatabase\\Program.cs",
+              "ToolTip": "C:\\Users\\chenm\\Desktop\\Prac_NodeDatabase\\Prac_NodeDatabase\\Program.cs",
+              "RelativeToolTip": "Prac_NodeDatabase\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:34:45.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
