@@ -1,0 +1,7 @@
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Doublenode\bin\Debug\Doublenode.exe.config
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Doublenode\bin\Debug\Doublenode.exe
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Doublenode\bin\Debug\Doublenode.pdb
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Doublenode\obj\Debug\Doublenode.csproj.AssemblyReference.cache
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Doublenode\obj\Debug\Doublenode.csproj.CoreCompileInputs.cache
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Doublenode\obj\Debug\Doublenode.exe
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Doublenode\obj\Debug\Doublenode.pdb

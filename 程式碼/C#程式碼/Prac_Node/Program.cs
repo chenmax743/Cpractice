@@ -13,7 +13,6 @@ namespace Prac_Node
             int num;
             LinkList list=new LinkList();
             list.CreateList();
-            string line = new string('-', 25);
 
             Console.Write("輸入新值->");
             num=int.Parse(Console.ReadLine());
@@ -21,25 +20,13 @@ namespace Prac_Node
             //list.AddFirst(num);
             //list.InsertBehind(num,124);
             //list.InsertArt(num, 3);
-
-
             list.PrintList();
             Console.WriteLine();
 
-            list.RemoveLast();
+            list.ReverteNode();
             list.PrintList();
-            Console.WriteLine();
 
-            list.RemoveLast();
-            list.PrintList();
-            Console.WriteLine();
-
-            list.RemoveLast();
-            list.PrintList();
-            Console.WriteLine();
-
-            list.RemoveLast();
-            list.PrintList();
+            
 
             Console.ReadLine();
         }

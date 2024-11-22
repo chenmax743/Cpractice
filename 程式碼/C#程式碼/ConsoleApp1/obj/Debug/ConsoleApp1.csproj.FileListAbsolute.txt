@@ -5,3 +5,10 @@ D:\Cpractice\Cpractice\程式碼\C#程式碼\ConsoleApp1\obj\Debug\ConsoleApp1.c
 D:\Cpractice\Cpractice\程式碼\C#程式碼\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 D:\Cpractice\Cpractice\程式碼\C#程式碼\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 D:\Cpractice\Cpractice\程式碼\C#程式碼\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

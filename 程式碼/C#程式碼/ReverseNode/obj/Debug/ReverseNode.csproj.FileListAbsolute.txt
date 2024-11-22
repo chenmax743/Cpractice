@@ -1,0 +1,7 @@
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\ReverseNode\bin\Debug\ReverseNode.exe.config
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\ReverseNode\bin\Debug\ReverseNode.exe
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\ReverseNode\bin\Debug\ReverseNode.pdb
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\ReverseNode\obj\Debug\ReverseNode.csproj.AssemblyReference.cache
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\ReverseNode\obj\Debug\ReverseNode.csproj.CoreCompileInputs.cache
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\ReverseNode\obj\Debug\ReverseNode.exe
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\ReverseNode\obj\Debug\ReverseNode.pdb

@@ -141,5 +141,20 @@ namespace Prac_Node
                 current = current.Next;
             }
         }
+
+        public void ReverteNode()
+        {
+            Node previouse = null;
+            Node current;
+
+            while(first != null) 
+            {
+                current = first;
+                first =current.Next;
+                current.Next=previouse;
+                previouse = current;
+            }
+            first = previouse;
+        }
     }
 }
