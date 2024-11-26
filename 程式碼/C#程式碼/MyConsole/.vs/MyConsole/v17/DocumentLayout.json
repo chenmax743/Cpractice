@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\MyConsole\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MyConsole||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{17F43DD5-16F5-4B86-A16E-36E77CD3A74E}|MyConsole.csproj|D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\MyConsole\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F43DD5-16F5-4B86-A16E-36E77CD3A74E}|MyConsole.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17F43DD5-16F5-4B86-A16E-36E77CD3A74E}|MyConsole.csproj|d:\\\u5404\u7A2E\u7A0B\u5F0F(git hub)\\cpractice\\\u7A0B\u5F0F\u78BC\\c#\u7A0B\u5F0F\u78BC\\myconsole\\testemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{17F43DD5-16F5-4B86-A16E-36E77CD3A74E}|MyConsole.csproj|D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\MyConsole\\testemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17F43DD5-16F5-4B86-A16E-36E77CD3A74E}|MyConsole.csproj|solutionrelative:testemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17F43DD5-16F5-4B86-A16E-36E77CD3A74E}|MyConsole.csproj|d:\\\u5404\u7A2E\u7A0B\u5F0F(git hub)\\cpractice\\\u7A0B\u5F0F\u78BC\\c#\u7A0B\u5F0F\u78BC\\myconsole\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17F43DD5-16F5-4B86-A16E-36E77CD3A74E}|MyConsole.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MyConsole||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17F43DD5-16F5-4B86-A16E-36E77CD3A74E}|MyConsole.csproj|d:\\\u5404\u7A2E\u7A0B\u5F0F(git hub)\\cpractice\\\u7A0B\u5F0F\u78BC\\c#\u7A0B\u5F0F\u78BC\\myconsole\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
@@ -24,11 +24,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MyConsole",
               "DocumentMoniker": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\MyConsole\\MyConsole.csproj",
               "RelativeDocumentMoniker": "MyConsole.csproj",
@@ -40,13 +40,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\MyConsole\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "Models\\Employee.cs",
               "ToolTip": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\MyConsole\\Models\\Employee.cs",
               "RelativeToolTip": "Models\\Employee.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAABBAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwGAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T03:42:10.283Z",
               "EditorCaption": ""
@@ -59,10 +59,18 @@
               "RelativeDocumentMoniker": "TestEmployees.cs",
               "ToolTip": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\MyConsole\\TestEmployees.cs",
               "RelativeToolTip": "TestEmployees.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAAA3AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwCcAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T05:23:17.38Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

@@ -18,6 +18,9 @@ namespace MyConsole.Models
         private DateTime _birthday;//員工生日
         public String address;
 
+        //實際薪水Data Field
+        private Int32 _actSalary;
+
         //公用資料欄Data Field(靜態) class Member
         public const String companyName = "夢想電腦";
         private static String _companyAddress = "台北市信義區";  //可以改變
@@ -77,6 +80,22 @@ namespace MyConsole.Models
             {
                 return _companyAddress;
             }
+        }
+
+        //使用Lamba Expression 進行屬性實作 setter(唯獨屬性)
+        public int ActSalary { get => _actSalary;}
+
+        //Method 薪資核算
+        //定義第一行定義 抽象描述 Instance Method 個別物件存在的方法
+
+        public void calSalary(Int32 days,Int32 bons)
+        {
+            //出勤天數
+            if(days < 0)
+            {
+                _actSalary = (Int32)(days / 22.0 * _salary) + bons;
+            }
+            //功能實作
         }
 
     }

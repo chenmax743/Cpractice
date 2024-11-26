@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{191523ED-56E6-4F2A-B925-84A1CAEDC518}|Prac_Database.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{191523ED-56E6-4F2A-B925-84A1CAEDC518}|Prac_Database.csproj|d:\\\u5404\u7A2E\u7A0B\u5F0F(git hub)\\cpractice\\\u7A0B\u5F0F\u78BC\\c#\u7A0B\u5F0F\u78BC\\prac_database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{191523ED-56E6-4F2A-B925-84A1CAEDC518}|Prac_Database.csproj|D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_Database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{191523ED-56E6-4F2A-B925-84A1CAEDC518}|Prac_Database.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,8 +44,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T07:45:07.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T07:45:07.395Z"
             }
           ]
         }
