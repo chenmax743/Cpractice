@@ -25,6 +25,20 @@ namespace MyConsole.Models
         public const String companyName = "夢想電腦";
         private static String _companyAddress = "台北市信義區";  //可以改變
 
+        public Employee(Int32 id,String name,String address)
+        {
+            this.id = id;
+            this.name = name;
+            this.address = address;
+        }
+
+        //建構子Constructor Overloading (多載) 使用參數架構進行簽章
+
+        //public Employee()
+        //{
+
+        //}
+
         //編譯時產生建構子Constructor(空參數的)
         //Instance Proprty
         //規劃屬性 Property(代理一個被封裝資料欄位) 可以雙向setter and getter(也可以單向)
@@ -91,7 +105,7 @@ namespace MyConsole.Models
         public void calSalary(Int32 days,Int32 bons)
         {
             //出勤天數
-            if(days < 0)
+            if(days > 0)
             {
                 _actSalary = (Int32)(days / 22.0 * _salary) + bons;
             }
