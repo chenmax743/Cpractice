@@ -42,8 +42,8 @@ namespace MyConsole.Models
         //編譯時產生建構子Constructor(空參數的)
         //Instance Proprty
         //規劃屬性 Property(代理一個被封裝資料欄位) 可以雙向setter and getter(也可以單向)
-
-        public Int32 salary
+        //Priperty 子類別可能改
+        public virtual Int32 salary
         {
             //設定區段
             set
