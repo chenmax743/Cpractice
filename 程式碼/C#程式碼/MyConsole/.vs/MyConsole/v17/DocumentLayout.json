@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\MyConsole\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17F43DD5-16F5-4B86-A16E-36E77CD3A74E}|MyConsole.csproj|d:\\\u5404\u7A2E\u7A0B\u5F0F(git hub)\\cpractice\\\u7A0B\u5F0F\u78BC\\c#\u7A0B\u5F0F\u78BC\\myconsole\\models\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{17F43DD5-16F5-4B86-A16E-36E77CD3A74E}|MyConsole.csproj|D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\MyConsole\\models\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17F43DD5-16F5-4B86-A16E-36E77CD3A74E}|MyConsole.csproj|solutionrelative:models\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17F43DD5-16F5-4B86-A16E-36E77CD3A74E}|MyConsole.csproj|D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\MyConsole\\testemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17F43DD5-16F5-4B86-A16E-36E77CD3A74E}|MyConsole.csproj|solutionrelative:testemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17F43DD5-16F5-4B86-A16E-36E77CD3A74E}|MyConsole.csproj|D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\MyConsole\\testemployeemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17F43DD5-16F5-4B86-A16E-36E77CD3A74E}|MyConsole.csproj|solutionrelative:testemployeemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F43DD5-16F5-4B86-A16E-36E77CD3A74E}|MyConsole.csproj|D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\MyConsole\\testemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F43DD5-16F5-4B86-A16E-36E77CD3A74E}|MyConsole.csproj|solutionrelative:testemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17F43DD5-16F5-4B86-A16E-36E77CD3A74E}|MyConsole.csproj|D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\MyConsole\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,33 +62,33 @@
               "RelativeDocumentMoniker": "Models\\Employee.cs",
               "ToolTip": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\MyConsole\\Models\\Employee.cs",
               "RelativeToolTip": "Models\\Employee.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T03:42:10.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TestEmployees.cs",
               "DocumentMoniker": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\MyConsole\\TestEmployees.cs",
               "RelativeDocumentMoniker": "TestEmployees.cs",
               "ToolTip": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\MyConsole\\TestEmployees.cs",
               "RelativeToolTip": "TestEmployees.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAA3AAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACcAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T05:23:17.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "TestEmployeeMethod.cs",
               "DocumentMoniker": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\MyConsole\\TestEmployeeMethod.cs",
               "RelativeDocumentMoniker": "TestEmployeeMethod.cs",
               "ToolTip": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\MyConsole\\TestEmployeeMethod.cs",
               "RelativeToolTip": "TestEmployeeMethod.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T04:58:35.686Z",
               "EditorCaption": ""
@@ -101,7 +101,7 @@
               "RelativeDocumentMoniker": "Models\\Sales.cs",
               "ToolTip": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\MyConsole\\Models\\Sales.cs",
               "RelativeToolTip": "Models\\Sales.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA0AAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAD4vyAAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T06:20:29.121Z",
               "EditorCaption": ""

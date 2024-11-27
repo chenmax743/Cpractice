@@ -17,8 +17,29 @@ namespace MyConsole.Models
         {
             _salesAmount = salesAmount; //目標業績
         }
+        //建構子多載 Construtor Overloading
+        public Sales(Int32 id, String name, String address, Int32 salary,Int32 salesAmount)
+        {
+            this.id = id;
+            this.name= name;
+            this.address= address;
+            //業務起薪有一點邏輯 與員工不同
+            if(salary>50000)
+            {
+                _salary=salary;
+            }
+            else
+            {
+                //50000起薪
+                _salary = 50000;
+            }
+        }
         public int salesAmount { get => _salesAmount; set => _salesAmount = value; }
         //唯獨屬性 業績獎金是經過計算的
         public int Commision { get => _commission; }
+
+        
+
+       
     }
 }

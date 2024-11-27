@@ -13,7 +13,7 @@ namespace MyConsole.Models
         //Data Field(可以儲存資訊)特徵
         public Int32 id;//員工編號
         public String name;//員工姓名
-        private Int32 _salary;//員工薪資
+        protected Int32 _salary;//員工薪資
         public String phone;//員工電話
         private DateTime _birthday;//員工生日
         public String address;
@@ -34,10 +34,10 @@ namespace MyConsole.Models
 
         //建構子Constructor Overloading (多載) 使用參數架構進行簽章
 
-        //public Employee()
-        //{
+        public Employee()
+        {
 
-        //}
+        }
 
         //編譯時產生建構子Constructor(空參數的)
         //Instance Proprty
