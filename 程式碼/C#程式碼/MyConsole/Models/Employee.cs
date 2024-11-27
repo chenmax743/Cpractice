@@ -19,7 +19,7 @@ namespace MyConsole.Models
         public String address;
 
         //實際薪水Data Field
-        private Int32 _actSalary;
+        protected Int32 _actSalary;
 
         //公用資料欄Data Field(靜態) class Member
         public const String companyName = "夢想電腦";
@@ -102,7 +102,7 @@ namespace MyConsole.Models
         //Method 薪資核算
         //定義第一行定義 抽象描述 Instance Method 個別物件存在的方法
 
-        public void calSalary(Int32 days,Int32 bons)
+        public virtual void  calSalary(Int32 days,Int32 bons)
         {
             //出勤天數
             if(days > 0)

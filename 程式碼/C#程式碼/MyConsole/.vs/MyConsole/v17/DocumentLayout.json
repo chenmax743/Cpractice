@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\MyConsole\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17F43DD5-16F5-4B86-A16E-36E77CD3A74E}|MyConsole.csproj|d:\\\u5404\u7A2E\u7A0B\u5F0F(git hub)\\cpractice\\\u7A0B\u5F0F\u78BC\\c#\u7A0B\u5F0F\u78BC\\myconsole\\testsalesemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17F43DD5-16F5-4B86-A16E-36E77CD3A74E}|MyConsole.csproj|solutionrelative:testsalesemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{17F43DD5-16F5-4B86-A16E-36E77CD3A74E}|MyConsole.csproj|D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\MyConsole\\models\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17F43DD5-16F5-4B86-A16E-36E77CD3A74E}|MyConsole.csproj|solutionrelative:models\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F43DD5-16F5-4B86-A16E-36E77CD3A74E}|MyConsole.csproj|d:\\\u5404\u7A2E\u7A0B\u5F0F(git hub)\\cpractice\\\u7A0B\u5F0F\u78BC\\c#\u7A0B\u5F0F\u78BC\\myconsole\\testsalesemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F43DD5-16F5-4B86-A16E-36E77CD3A74E}|MyConsole.csproj|solutionrelative:testsalesemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17F43DD5-16F5-4B86-A16E-36E77CD3A74E}|MyConsole.csproj|D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\MyConsole\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,7 +33,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -56,28 +56,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TestSalesEmployee.cs",
               "DocumentMoniker": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\MyConsole\\TestSalesEmployee.cs",
               "RelativeDocumentMoniker": "TestSalesEmployee.cs",
               "ToolTip": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\MyConsole\\TestSalesEmployee.cs",
               "RelativeToolTip": "TestSalesEmployee.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAwwCgAAAAiAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC8AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T03:18:19.748Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Sales.cs",
               "DocumentMoniker": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\MyConsole\\Models\\Sales.cs",
               "RelativeDocumentMoniker": "Models\\Sales.cs",
               "ToolTip": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\MyConsole\\Models\\Sales.cs",
               "RelativeToolTip": "Models\\Sales.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAA3wEIAAAAkAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAABAwFAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T06:20:29.121Z"
+              "WhenOpened": "2024-11-26T06:20:29.121Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -87,9 +88,10 @@
               "RelativeDocumentMoniker": "Models\\Employee.cs",
               "ToolTip": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\MyConsole\\Models\\Employee.cs",
               "RelativeToolTip": "Models\\Employee.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC0AAAAjAAAA",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAGgAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T03:42:10.283Z"
+              "WhenOpened": "2024-11-20T03:42:10.283Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

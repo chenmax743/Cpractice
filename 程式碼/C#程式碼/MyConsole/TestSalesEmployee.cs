@@ -40,11 +40,12 @@ namespace MyConsole
             //業績獎金核算
             sales1.calCommision();
             //核算薪資
-            emp1.calSalary(22, 100000);
-            sales1.calSalary(22, 1000000);
+            emp1.calSalary(22, 10000);
+            sales1.calSalary(22, 10000);
 
             Console.WriteLine($"編號{emp1.id} 姓名{emp1.name} 底薪{emp1.salary} 生日{emp1.birthday} 實際薪資{emp1.ActSalary} ");
-            Console.WriteLine($"編號{sales1.id} 姓名{sales1.name} 底薪{sales1.salary} 生日{sales1.birthday}");
+            Console.WriteLine($"編號{sales1.id} 姓名{sales1.name} 底薪{sales1.salary} 生日{sales1.birthday} 業績{sales1.SalesAmount} " +
+                $"實際業績{sales1.actSalesAmount} 業績獎金{sales1.Commision} 實際薪資{sales1.ActSalary}");
             Console.WriteLine($"編號{sales2.id} 姓名{sales2.name} 底薪{sales2.salary} 生日{sales2.birthday} 業績{sales2.SalesAmount}");
         }
     }
