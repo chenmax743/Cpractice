@@ -1,0 +1,7 @@
+C:\程式語言資料\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_threetree\bin\Debug\Prac_threetree.exe.config
+C:\程式語言資料\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_threetree\bin\Debug\Prac_threetree.exe
+C:\程式語言資料\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_threetree\bin\Debug\Prac_threetree.pdb
+C:\程式語言資料\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_threetree\obj\Debug\Prac_threetree.csproj.AssemblyReference.cache
+C:\程式語言資料\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_threetree\obj\Debug\Prac_threetree.csproj.CoreCompileInputs.cache
+C:\程式語言資料\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_threetree\obj\Debug\Prac_threetree.exe
+C:\程式語言資料\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_threetree\obj\Debug\Prac_threetree.pdb

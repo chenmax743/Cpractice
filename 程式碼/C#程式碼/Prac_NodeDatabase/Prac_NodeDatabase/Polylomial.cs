@@ -42,7 +42,8 @@ namespace Prac_NodeDatabase
             item1 = CreateItem(item1, 1, 3);
             item1 = CreateItem(item1, 7, 1);
             return item1;
-        }
+        }   
+
 
         public Node ShowPoly2()
         {
