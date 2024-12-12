@@ -10,7 +10,17 @@ namespace Prac__doublieStack
     {
         static void Main(string[] args)
         {
+            Stack stack = new Stack();
+            stack.PushItem("Apple");
+            stack.PushItem("Banana");
+            stack.PushItem("Cherry");
+
+            stack.PopItem();
+            stack.PopItem();
+            stack.PopItem();     
             
+            Console.ReadLine();
+
         }
     }
 }

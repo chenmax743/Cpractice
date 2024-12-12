@@ -14,73 +14,103 @@ namespace Prac_threetree
 
         public void ToPostfix(char[] infix, char[] postfix)
         {
-            int j = 0;
-            for(int i=0; i<infix.Length;i++)
+            int pos = 0, k = 0;
+            char token;
+
+            while (infix[pos]!='\0')
             {
-                char ch=infix[i];
-                if (char.IsLetter(ch))
+                if (infix[pos]=='(') 
                 {
-                    postfix[j++] = ch;
+                    PushItem(stack, infix[pos]);
+                    pos++;
                 }
-                else if (ch == '(')
+                else if (infix[pos]==')') 
                 {
-                    PushItem(ch);
-                }
-                else if (ch == ')')
-                {
-                    while(Top !=1 && stack[Top]!='(')
+                    while ((Top != -1) && (stack[Top]!='('))
                     {
-                        postfix[j++] = PopItem();
+                        postfix[k++] = PopItem(stack);
+                        k++;
                     }
-                    PopItem();
+                    if(Top==-1)
+                    {
+                        Console.WriteLine("運算式不正確");
+                        break;
+                    }
+                    token = PopItem(stack);
+                    pos++;
+                }
+                else if (Char.IsDigit(infix[pos]) || Char.IsLetter(infix[pos])) 
+                {
+                    postfix[k] = infix[pos];
+                    k++;
+                    pos++;
+                }
+                else if (infix[pos]=='+'|| infix[pos]=='-'
+                      || infix[pos]=='*'||infix[pos]=='/' 
+                      || infix[pos]=='%')
+                {
+                    while((Top!= -1) && (stack[Top]!='(') 
+                         && (Priority(stack[Top])
+                         >= Priority(infix[pos]))) 
+                    {
+                        postfix[k]=PopItem(stack);
+                        k++;
+                        
+                    }
+                    PushItem(stack, infix[pos]);
+                    pos++;
                 }
                 else
                 {
-                    while(Top!=-1 && Priority(stack[Top])>=Priority(ch))
-                    {
-                        postfix[j++] = PopItem();
-                    }
-                    PushItem(ch);                   
+                    Console.WriteLine("運算的漢字不對");
+                    break;
                 }
             }
-            while(Top !=-1)
+            while((Top!=-1) && (stack[Top]!='('))
             {
-                postfix[j++] = PopItem();
+                postfix[k] = PopItem(stack);
+                k++;
             }
+            postfix[k] = '\0';
         }
 
         public int Priority(char op)
         {
-            switch(op)
+            switch (op) 
             {
+                case '*': case '/': case '%': return 2;
                 case '+':
-                case '-':
-                    return 1;
-                case '*':
-                case '/':
-                    return 2;
-                case '(':
-                    return 0;
-                default:
-                    return -1;
+                case '-': return 1;
+                default: return 0;
             }
         }
 
-        public void PushItem(char op)
+        public void PushItem(char[] stack,char value)
         {
-            if(Top <stack.Length-1)
+            if (Top == stack.Length - 1)
+                Console.WriteLine("堆疊已滿");
+            else
             {
-                stack[Top] = op;
+                Top++;
+                stack[Top] = value;
             }
+            
         }
 
-        public char PopItem()
+        public char PopItem(char[] stack)
         {
-            if(Top>0)
+            char val = ' ';
+            if(Top==-1) 
             {
-                return stack[Top--];
+                Console.WriteLine("堆疊是空的");
             }
-            return '\0';
+            else
+            {
+                val = stack[Top];
+                Top--;
+            }
+            return val;
+            
         }
     }
 }

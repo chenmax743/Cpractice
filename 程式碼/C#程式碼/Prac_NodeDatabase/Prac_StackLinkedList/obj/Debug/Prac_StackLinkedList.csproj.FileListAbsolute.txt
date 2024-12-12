@@ -1,0 +1,7 @@
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_StackLinkedList\bin\Debug\Prac_StackLinkedList.exe.config
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_StackLinkedList\bin\Debug\Prac_StackLinkedList.exe
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_StackLinkedList\bin\Debug\Prac_StackLinkedList.pdb
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_StackLinkedList\obj\Debug\Prac_StackLinkedList.csproj.AssemblyReference.cache
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_StackLinkedList\obj\Debug\Prac_StackLinkedList.csproj.CoreCompileInputs.cache
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_StackLinkedList\obj\Debug\Prac_StackLinkedList.exe
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_StackLinkedList\obj\Debug\Prac_StackLinkedList.pdb

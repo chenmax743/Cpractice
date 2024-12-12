@@ -19,8 +19,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -44,8 +52,7 @@
               "RelativeToolTip": "..\\Prac_DoublyNode\\DoublyNode.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T05:41:33.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T05:41:33.927Z"
             },
             {
               "$type": "Document",
@@ -57,8 +64,7 @@
               "RelativeToolTip": "..\\Prac_DoublyNode\\DoublyLinked.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAwwHEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T05:41:52.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T05:41:52.819Z"
             }
           ]
         }

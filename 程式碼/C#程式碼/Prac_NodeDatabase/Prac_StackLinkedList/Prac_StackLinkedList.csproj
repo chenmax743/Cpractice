@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DAF38861-5A7D-4F78-8556-1604E60CD685}</ProjectGuid>
+    <ProjectGuid>{DEE15C3F-3EF8-41A7-8E36-1E1DF1585577}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Prac__doublieStack</RootNamespace>
-    <AssemblyName>Prac_ doublieStack</AssemblyName>
+    <RootNamespace>Prac_StackLinkedList</RootNamespace>
+    <AssemblyName>Prac_StackLinkedList</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Node.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Stack.cs" />
+    <Compile Include="StackLinkedList.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

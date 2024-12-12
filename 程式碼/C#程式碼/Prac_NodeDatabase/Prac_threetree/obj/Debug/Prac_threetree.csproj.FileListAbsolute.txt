@@ -5,3 +5,10 @@ C:\程式語言資料\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_thr
 C:\程式語言資料\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_threetree\obj\Debug\Prac_threetree.csproj.CoreCompileInputs.cache
 C:\程式語言資料\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_threetree\obj\Debug\Prac_threetree.exe
 C:\程式語言資料\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_threetree\obj\Debug\Prac_threetree.pdb
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_threetree\bin\Debug\Prac_threetree.exe.config
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_threetree\bin\Debug\Prac_threetree.exe
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_threetree\bin\Debug\Prac_threetree.pdb
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_threetree\obj\Debug\Prac_threetree.csproj.AssemblyReference.cache
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_threetree\obj\Debug\Prac_threetree.csproj.CoreCompileInputs.cache
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_threetree\obj\Debug\Prac_threetree.exe
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_threetree\obj\Debug\Prac_threetree.pdb
