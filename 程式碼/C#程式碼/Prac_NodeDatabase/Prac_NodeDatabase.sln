@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prac_threetree", "Prac_thre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prac_StackLinkedList", "Prac_StackLinkedList\Prac_StackLinkedList.csproj", "{DEE15C3F-3EF8-41A7-8E36-1E1DF1585577}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prac_ENQUEUE", "Prac_ENQUEUE\Prac_ENQUEUE.csproj", "{5026210C-BE98-4FE5-9DC4-76764BE16D45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{DEE15C3F-3EF8-41A7-8E36-1E1DF1585577}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEE15C3F-3EF8-41A7-8E36-1E1DF1585577}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEE15C3F-3EF8-41A7-8E36-1E1DF1585577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5026210C-BE98-4FE5-9DC4-76764BE16D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5026210C-BE98-4FE5-9DC4-76764BE16D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5026210C-BE98-4FE5-9DC4-76764BE16D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5026210C-BE98-4FE5-9DC4-76764BE16D45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

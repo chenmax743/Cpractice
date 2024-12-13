@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\\u7A0B\u5F0F\u8A9E\u8A00\u8CC7\u6599\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_NodeDatabase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1989E777-28F0-4EBA-AB10-6790548F2D35}|Prac_threetree\\Prac_threetree.csproj|c:\\\u7A0B\u5F0F\u8A9E\u8A00\u8CC7\u6599\\cpractice\\\u7A0B\u5F0F\u78BC\\c#\u7A0B\u5F0F\u78BC\\prac_nodedatabase\\prac_threetree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1989E777-28F0-4EBA-AB10-6790548F2D35}|Prac_threetree\\Prac_threetree.csproj|solutionrelative:prac_threetree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5026210C-BE98-4FE5-9DC4-76764BE16D45}|Prac_ENQUEUE\\Prac_ENQUEUE.csproj|c:\\\u7A0B\u5F0F\u8A9E\u8A00\u8CC7\u6599\\cpractice\\\u7A0B\u5F0F\u78BC\\c#\u7A0B\u5F0F\u78BC\\prac_nodedatabase\\prac_enqueue\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026210C-BE98-4FE5-9DC4-76764BE16D45}|Prac_ENQUEUE\\Prac_ENQUEUE.csproj|solutionrelative:prac_enqueue\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1989E777-28F0-4EBA-AB10-6790548F2D35}|Prac_threetree\\Prac_threetree.csproj|c:\\\u7A0B\u5F0F\u8A9E\u8A00\u8CC7\u6599\\cpractice\\\u7A0B\u5F0F\u78BC\\c#\u7A0B\u5F0F\u78BC\\prac_nodedatabase\\prac_threetree\\infittofoxfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1989E777-28F0-4EBA-AB10-6790548F2D35}|Prac_threetree\\Prac_threetree.csproj|solutionrelative:prac_threetree\\infittofoxfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5026210C-BE98-4FE5-9DC4-76764BE16D45}|Prac_ENQUEUE\\Prac_ENQUEUE.csproj|c:\\\u7A0B\u5F0F\u8A9E\u8A00\u8CC7\u6599\\cpractice\\\u7A0B\u5F0F\u78BC\\c#\u7A0B\u5F0F\u78BC\\prac_nodedatabase\\prac_enqueue\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026210C-BE98-4FE5-9DC4-76764BE16D45}|Prac_ENQUEUE\\Prac_ENQUEUE.csproj|solutionrelative:prac_enqueue\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5026210C-BE98-4FE5-9DC4-76764BE16D45}|Prac_ENQUEUE\\Prac_ENQUEUE.csproj|c:\\\u7A0B\u5F0F\u8A9E\u8A00\u8CC7\u6599\\cpractice\\\u7A0B\u5F0F\u78BC\\c#\u7A0B\u5F0F\u78BC\\prac_nodedatabase\\prac_enqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5026210C-BE98-4FE5-9DC4-76764BE16D45}|Prac_ENQUEUE\\Prac_ENQUEUE.csproj|solutionrelative:prac_enqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InfitTofoxfix.cs",
-              "DocumentMoniker": "C:\\\u7A0B\u5F0F\u8A9E\u8A00\u8CC7\u6599\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_NodeDatabase\\Prac_threetree\\InfitTofoxfix.cs",
-              "RelativeDocumentMoniker": "Prac_threetree\\InfitTofoxfix.cs",
-              "ToolTip": "C:\\\u7A0B\u5F0F\u8A9E\u8A00\u8CC7\u6599\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_NodeDatabase\\Prac_threetree\\InfitTofoxfix.cs",
-              "RelativeToolTip": "Prac_threetree\\InfitTofoxfix.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAuwEgAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Queue.cs",
+              "DocumentMoniker": "C:\\\u7A0B\u5F0F\u8A9E\u8A00\u8CC7\u6599\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_NodeDatabase\\Prac_ENQUEUE\\Queue.cs",
+              "RelativeDocumentMoniker": "Prac_ENQUEUE\\Queue.cs",
+              "ToolTip": "C:\\\u7A0B\u5F0F\u8A9E\u8A00\u8CC7\u6599\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_NodeDatabase\\Prac_ENQUEUE\\Queue.cs",
+              "RelativeToolTip": "Prac_ENQUEUE\\Queue.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA0wBQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T08:43:05.991Z",
+              "WhenOpened": "2024-12-13T07:52:06.273Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\\u7A0B\u5F0F\u8A9E\u8A00\u8CC7\u6599\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_NodeDatabase\\Prac_threetree\\Program.cs",
-              "RelativeDocumentMoniker": "Prac_threetree\\Program.cs",
-              "ToolTip": "C:\\\u7A0B\u5F0F\u8A9E\u8A00\u8CC7\u6599\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_NodeDatabase\\Prac_threetree\\Program.cs",
-              "RelativeToolTip": "Prac_threetree\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBcAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\\u7A0B\u5F0F\u8A9E\u8A00\u8CC7\u6599\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_NodeDatabase\\Prac_ENQUEUE\\Node.cs",
+              "RelativeDocumentMoniker": "Prac_ENQUEUE\\Node.cs",
+              "ToolTip": "C:\\\u7A0B\u5F0F\u8A9E\u8A00\u8CC7\u6599\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_NodeDatabase\\Prac_ENQUEUE\\Node.cs",
+              "RelativeToolTip": "Prac_ENQUEUE\\Node.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T08:42:26.353Z",
+              "WhenOpened": "2024-12-13T07:46:35.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u7A0B\u5F0F\u8A9E\u8A00\u8CC7\u6599\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_NodeDatabase\\Prac_ENQUEUE\\Program.cs",
+              "RelativeDocumentMoniker": "Prac_ENQUEUE\\Program.cs",
+              "ToolTip": "C:\\\u7A0B\u5F0F\u8A9E\u8A00\u8CC7\u6599\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_NodeDatabase\\Prac_ENQUEUE\\Program.cs",
+              "RelativeToolTip": "Prac_ENQUEUE\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:22:34.263Z",
               "EditorCaption": ""
             }
           ]
