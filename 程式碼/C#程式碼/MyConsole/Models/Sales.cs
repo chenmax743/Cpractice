@@ -76,7 +76,8 @@ namespace MyConsole.Models
         //薪資核算方式進行改版 Overriding
         public override void calSalary(int days,int bons)
         {
-            base.calSalary(days, bons);
+            base.calSalary(days, bons); //呼叫方法
+            //業績獎金加上去
             this._actSalary += _commission;
         }
 

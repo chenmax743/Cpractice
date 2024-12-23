@@ -10,46 +10,39 @@ namespace Prac_ENQUEUE
     {
         private int[] list = new int[10];
 
-        public int Rear { get; set; } 
-        public int Front { get; set; } 
+        public int Rear { get; set; } = -1;
+        public int Front { get; set; } = 0;
 
         public void Enqueue(int data)
         {
-            if((Rear+1)% list.Length==Front && Rear!=-1)
+            if(Rear>=9)
             {
-                Console.WriteLine("眝列已滿");
+                Console.WriteLine("嚀列已滿");
                 return;
             }
-            Rear=(Rear+1)% list.Length;
-            list[Rear]=data;
+            Rear++;
+            list[Rear] = data;
         }
 
         public void Dequeue()
         {
-            if(Front==(Rear+1)% list.Length)
+            if(Rear==-1 || (Rear<Front))
+                Console.WriteLine("無法刪除項目");
+            
+            else
             {
-                Console.WriteLine("眝列已滿");
-                return;
+                Array.Clear(list, Front, 1);
+                Front++;
             }
-            Console.WriteLine("移除了" + list[Front]);
-            Front = (Front + 1) % list.Length;
         }
 
         public void Display()
         {
-            if(Front==(Rear+1) % list.Length)
-            {
-                Console.WriteLine("眝列已滿");
-                return;
-            }
-            int i = Front;
-            while(i!=Rear)
-            {
-                Console.WriteLine(list[i] + "");
-                i=(i+1) % list.Length;
-            }
-            Console.WriteLine(list[Rear] + "");
-            Console.WriteLine();
+            for(int i=0;i<list.Length; i++)            
+                Console.Write($"{list[i],4}");
+                Console.WriteLine();
+                Console.WriteLine($"Rear = {Rear},Front = {Front}");
+            
         }
 
     }

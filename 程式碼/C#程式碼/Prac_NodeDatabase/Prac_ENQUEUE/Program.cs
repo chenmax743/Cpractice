@@ -31,12 +31,12 @@ namespace Prac_ENQUEUE
                 {
                     case 1:
                         for (int j = 0; j < len; j++)
-                            list.Equals(data[j]);
+                            list.Enqueue(data[j]);
                         break;
                     case 2:
                         Write("輸入新值-->");
                         num=int.Parse(ReadLine());
-                        list.Equals(num); break;
+                        list.Enqueue(num); break;
                         case 3:
                         list.Dequeue();
                         break;

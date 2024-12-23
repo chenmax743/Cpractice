@@ -5,3 +5,10 @@ C:\程式語言資料\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_ENQ
 C:\程式語言資料\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_ENQUEUE\obj\Debug\Prac_ENQUEUE.csproj.CoreCompileInputs.cache
 C:\程式語言資料\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_ENQUEUE\obj\Debug\Prac_ENQUEUE.exe
 C:\程式語言資料\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_ENQUEUE\obj\Debug\Prac_ENQUEUE.pdb
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_ENQUEUE\bin\Debug\Prac_ENQUEUE.exe.config
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_ENQUEUE\bin\Debug\Prac_ENQUEUE.exe
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_ENQUEUE\bin\Debug\Prac_ENQUEUE.pdb
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_ENQUEUE\obj\Debug\Prac_ENQUEUE.csproj.AssemblyReference.cache
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_ENQUEUE\obj\Debug\Prac_ENQUEUE.csproj.CoreCompileInputs.cache
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_ENQUEUE\obj\Debug\Prac_ENQUEUE.exe
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Prac_NodeDatabase\Prac_ENQUEUE\obj\Debug\Prac_ENQUEUE.pdb
