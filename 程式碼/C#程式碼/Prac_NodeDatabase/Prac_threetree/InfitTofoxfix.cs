@@ -10,25 +10,25 @@ namespace Prac_threetree
     {
         private char[] stack = new char[20];
 
-        public int Top { get; set; } = -1;
+        public int Top { get; set; } = -1; //指向堆疊頂端
 
         public void ToPostfix(char[] infix, char[] postfix)
         {
             int pos = 0, k = 0;
             char token;
 
-            while (infix[pos]!='\0')
+            while (infix[pos]!='\0') //0表示空字符
             {
-                if (infix[pos]=='(') 
+                if (infix[pos]=='(') //左括號押入STACK
                 {
-                    PushItem(stack, infix[pos]);
+                    PushItem(stack, infix[pos]);    //呼叫堆疊的PUSHT()方法
                     pos++;
                 }
-                else if (infix[pos]==')') 
+                else if (infix[pos]==')')   //右括號從堆疊彈出 
                 {
-                    while ((Top != -1) && (stack[Top]!='('))
+                    while ((Top != -1) && (stack[Top]!='('))    //輸出運算式到左括號
                     {
-                        postfix[k++] = PopItem(stack);
+                        postfix[k++] = PopItem(stack);  
                         k++;
                     }
                     if(Top==-1)
@@ -49,6 +49,7 @@ namespace Prac_threetree
                       || infix[pos]=='*'||infix[pos]=='/' 
                       || infix[pos]=='%')
                 {
+
                     while((Top!= -1) && (stack[Top]!='(') 
                          && (Priority(stack[Top])
                          >= Priority(infix[pos]))) 
@@ -68,12 +69,13 @@ namespace Prac_threetree
             }
             while((Top!=-1) && (stack[Top]!='('))
             {
-                postfix[k] = PopItem(stack);
+                postfix[k] = PopItem(stack); //彈出堆疊內其他運算子
                 k++;
             }
-            postfix[k] = '\0';
+            postfix[k] = '\0'; 
         }
 
+        //依先乘除後加減的優先權
         public int Priority(char op)
         {
             switch (op) 
@@ -85,6 +87,7 @@ namespace Prac_threetree
             }
         }
 
+        //將項目押入堆疊
         public void PushItem(char[] stack,char value)
         {
             if (Top == stack.Length - 1)
@@ -97,6 +100,7 @@ namespace Prac_threetree
             
         }
 
+        //從堆疊彈出項目
         public char PopItem(char[] stack)
         {
             char val = ' ';
