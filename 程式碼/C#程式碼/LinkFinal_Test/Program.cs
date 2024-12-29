@@ -11,15 +11,15 @@ namespace LinkFinal_Test
         static void Main(string[] args)
         {
             LinkedList team = new LinkedList();
-            team.AddLast(new Character("Warrior", 100, 50));
+            team.AddLast(new Character("Saber", 100, 50));
             team.AddLast(new Character("Mage", 80, 30));
             team.AddLast(new Character("Archer", 90, 40));
-            team.AddLast(new Character("Healer", 50, 70));
+            team.AddLast(new Character("Caster", 50, 70));
 
             List<Character> availableCharacters = new List<Character>
         {
-            new Character("Rogue", 95, 45),
-            new Character("Paladin", 110, 60),
+            new Character("Bersaker", 95, 45),
+            new Character("Lanser", 110, 60),
             new Character("Necromancer", 70, 40)
         };
 
@@ -81,6 +81,7 @@ namespace LinkFinal_Test
                 return;
             }
 
+            // 顯示目前隊伍中的角色，將選中的角色顯示到後台
             Console.WriteLine("\n後台角色清單：");
             for (int i = 0; i < availableCharacters.Count; i++)
             {
@@ -95,13 +96,27 @@ namespace LinkFinal_Test
                 return;
             }
 
+            // 選擇要替換的角色
             Character selectedCharacter = availableCharacters[selection - 1];
+
+            // 從隊伍中取得選擇位置的角色
+            Character currentCharacter = team.GetAt(position - 1);
+
+            // 顯示替換的兩個角色
+            Console.WriteLine($"\n正在交換角色：{currentCharacter.Name} 與 {selectedCharacter.Name}。");
+
+            // 交換角色
             team.Replace(position - 1, selectedCharacter);
 
+            // 更新後台角色清單（如果你需要反映交換後的結果）
+            availableCharacters[selection - 1] = currentCharacter;
+
             Console.WriteLine("\n角色替換完成！");
+            Console.WriteLine("目前隊伍為：");
             team.DisplayTeam();
         }
 
+        //新增成員到最後一位
         static void AddCharacter(LinkedList team, List<Character> availableCharacters)
         {
             Console.WriteLine("\n後台角色清單：");
@@ -118,13 +133,27 @@ namespace LinkFinal_Test
                 return;
             }
 
+            // 取得選擇的角色
             Character selectedCharacter = availableCharacters[selection - 1];
+
+            // 將選中的角色加入隊伍
             team.AddLast(selectedCharacter);
+
+            // 從後台角色清單中移除已經加入的角色
+            availableCharacters.RemoveAt(selection - 1);
 
             Console.WriteLine($"\n角色 [{selectedCharacter.Name}] 已加入隊伍的最後一個位置！");
             Console.WriteLine("目前隊伍為：");
             team.DisplayTeam();
+
+            // 顯示更新後的後台角色清單
+            Console.WriteLine("\n更新後的後台角色清單：");
+            for (int i = 0; i < availableCharacters.Count; i++)
+            {
+                Console.WriteLine($"[{i + 1}] {availableCharacters[i]}");
+            }
         }
+
 
         static void SortTeam(LinkedList team)
         {
