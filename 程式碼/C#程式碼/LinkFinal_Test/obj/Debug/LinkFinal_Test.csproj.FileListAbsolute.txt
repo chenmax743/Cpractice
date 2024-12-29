@@ -1,0 +1,7 @@
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\LinkFinal_Test\obj\Debug\LinkFinal_Test.csproj.AssemblyReference.cache
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\LinkFinal_Test\obj\Debug\LinkFinal_Test.csproj.CoreCompileInputs.cache
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\LinkFinal_Test\bin\Debug\LinkFinal_Test.exe.config
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\LinkFinal_Test\bin\Debug\LinkFinal_Test.exe
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\LinkFinal_Test\bin\Debug\LinkFinal_Test.pdb
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\LinkFinal_Test\obj\Debug\LinkFinal_Test.exe
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\LinkFinal_Test\obj\Debug\LinkFinal_Test.pdb
