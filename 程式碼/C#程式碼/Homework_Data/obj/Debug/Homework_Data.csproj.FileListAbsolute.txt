@@ -1,0 +1,7 @@
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Homework_Data\bin\Debug\Homework_Data.exe.config
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Homework_Data\bin\Debug\Homework_Data.exe
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Homework_Data\bin\Debug\Homework_Data.pdb
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Homework_Data\obj\Debug\Homework_Data.csproj.AssemblyReference.cache
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Homework_Data\obj\Debug\Homework_Data.csproj.CoreCompileInputs.cache
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Homework_Data\obj\Debug\Homework_Data.exe
+D:\各種程式(GIT HUB)\Cpractice\程式碼\C#程式碼\Homework_Data\obj\Debug\Homework_Data.pdb

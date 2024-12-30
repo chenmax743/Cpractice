@@ -101,27 +101,6 @@ namespace LinkFinal_Test
             return count;
         }
 
-        public void Sort()
-        {
-            if (head == null || head.Next == null)
-                return;
-
-            List<Character> characters = new List<Character>();
-            Node current = head;
-            while (current != null)
-            {
-                characters.Add(current.Data);
-                current = current.Next;
-            }
-
-            characters.Sort((c1, c2) => c2.Attack.CompareTo(c1.Attack));
-
-            current = head;
-            foreach (var character in characters)
-            {
-                current.Data = character;
-                current = current.Next;
-            }
-        }
+       
     }
 }

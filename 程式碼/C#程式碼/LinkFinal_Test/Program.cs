@@ -50,7 +50,7 @@ namespace LinkFinal_Test
                         break;
 
                     case "4":
-                        SortTeam(team);
+                        SortBackendCharacters(availableCharacters);
                         break;
 
                     case "5":
@@ -155,11 +155,18 @@ namespace LinkFinal_Test
         }
 
 
-        static void SortTeam(LinkedList team)
+        static void SortBackendCharacters(List<Character> availableCharacters)
         {
-            team.Sort();
-            Console.WriteLine("\n隊伍已按照攻擊力排序！");
-            team.DisplayTeam();
+            // 按照攻擊力由高到低排序後台角色
+            availableCharacters.Sort((c1, c2) => c2.Attack.CompareTo(c1.Attack));
+
+            Console.WriteLine("\n後台角色已按照攻擊力排序：");
+            for (int i = 0; i < availableCharacters.Count; i++)
+            {
+                Console.WriteLine($"[{i + 1}] {availableCharacters[i]}");
+            }
         }
+
+
     }
 }

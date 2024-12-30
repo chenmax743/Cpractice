@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{1989E777-28F0-4EBA-AB10-6790548F2D35}|Prac_threetree\\Prac_threetree.csproj|solutionrelative:prac_threetree\\infittofoxfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{51717E1A-1664-48DA-8565-C680CE1A3C6B}|Prac_NodeDatabase\\Prac_NodeDatabase.csproj|d:\\\u5404\u7A2E\u7A0B\u5F0F(git hub)\\cpractice\\\u7A0B\u5F0F\u78BC\\c#\u7A0B\u5F0F\u78BC\\prac_nodedatabase\\prac_nodedatabase\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51717E1A-1664-48DA-8565-C680CE1A3C6B}|Prac_NodeDatabase\\Prac_NodeDatabase.csproj|solutionrelative:prac_nodedatabase\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51717E1A-1664-48DA-8565-C680CE1A3C6B}|Prac_NodeDatabase\\Prac_NodeDatabase.csproj|d:\\\u5404\u7A2E\u7A0B\u5F0F(git hub)\\cpractice\\\u7A0B\u5F0F\u78BC\\c#\u7A0B\u5F0F\u78BC\\prac_nodedatabase\\prac_nodedatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51717E1A-1664-48DA-8565-C680CE1A3C6B}|Prac_NodeDatabase\\Prac_NodeDatabase.csproj|solutionrelative:prac_nodedatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51717E1A-1664-48DA-8565-C680CE1A3C6B}|Prac_NodeDatabase\\Prac_NodeDatabase.csproj|d:\\\u5404\u7A2E\u7A0B\u5F0F(git hub)\\cpractice\\\u7A0B\u5F0F\u78BC\\c#\u7A0B\u5F0F\u78BC\\prac_nodedatabase\\prac_nodedatabase\\polylomial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51717E1A-1664-48DA-8565-C680CE1A3C6B}|Prac_NodeDatabase\\Prac_NodeDatabase.csproj|solutionrelative:prac_nodedatabase\\polylomial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1989E777-28F0-4EBA-AB10-6790548F2D35}|Prac_threetree\\Prac_threetree.csproj|D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_NodeDatabase\\prac_threetree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1989E777-28F0-4EBA-AB10-6790548F2D35}|Prac_threetree\\Prac_threetree.csproj|solutionrelative:prac_threetree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -30,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_NodeDatabase\\Prac_threetree\\Program.cs",
               "RelativeDocumentMoniker": "Prac_threetree\\Program.cs",
@@ -38,8 +50,7 @@
               "RelativeToolTip": "Prac_threetree\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T06:28:39.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T06:28:39.095Z"
             },
             {
               "$type": "Document",
@@ -49,9 +60,48 @@
               "RelativeDocumentMoniker": "Prac_threetree\\InfitTofoxfix.cs",
               "ToolTip": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_NodeDatabase\\Prac_threetree\\InfitTofoxfix.cs",
               "RelativeToolTip": "Prac_threetree\\InfitTofoxfix.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAwwEoAAAAfAAAA",
+              "ViewState": "AQIAADoAAAAAAAAAAAAwwEoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T06:29:12.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Polylomial.cs",
+              "DocumentMoniker": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_NodeDatabase\\Prac_NodeDatabase\\Polylomial.cs",
+              "RelativeDocumentMoniker": "Prac_NodeDatabase\\Polylomial.cs",
+              "ToolTip": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_NodeDatabase\\Prac_NodeDatabase\\Polylomial.cs",
+              "RelativeToolTip": "Prac_NodeDatabase\\Polylomial.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:51:36.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_NodeDatabase\\Prac_NodeDatabase\\Program.cs",
+              "RelativeDocumentMoniker": "Prac_NodeDatabase\\Program.cs",
+              "ToolTip": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_NodeDatabase\\Prac_NodeDatabase\\Program.cs",
+              "RelativeToolTip": "Prac_NodeDatabase\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:51:41.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_NodeDatabase\\Prac_NodeDatabase\\Node.cs",
+              "RelativeDocumentMoniker": "Prac_NodeDatabase\\Node.cs",
+              "ToolTip": "D:\\\u5404\u7A2E\u7A0B\u5F0F(GIT HUB)\\Cpractice\\\u7A0B\u5F0F\u78BC\\C#\u7A0B\u5F0F\u78BC\\Prac_NodeDatabase\\Prac_NodeDatabase\\Node.cs",
+              "RelativeToolTip": "Prac_NodeDatabase\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:51:43.381Z",
               "EditorCaption": ""
             }
           ]
